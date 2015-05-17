@@ -15,27 +15,33 @@
         <![endif]-->
     </head>
     <body>
-        <nav class="navbar navbar-inverse navbar-fixed-top">
-            <div class="container"> 
-                <div class="navbar-header">
-                    <a class="navbar-brand" href="#">Memory Light</a>
+        <div style="background: black;">
+            <div class="container">
+                <div class="header clearfix">
+                    <h1 class="logo">Memory Light</h1>
+                    <p class="text-capitalize logo-statement">Professionals in support bereavement care</p>
                 </div>
-                <div id="navbar" class="collapse navbar-collapse">
-                    <ul class="nav navbar-nav navbar-right">
-                        <li class="active"><a href="#">Home</a></li>
-                        <li><a href="#">Memory Light Relic</a></li>
-                        <li><a href="#">Dispenser</a></li>
-                        <li><a href="#">Partner Program</a></li>
-                        <li><a href="#">Contact</a></li>
+            </div>
+        </div>
+        <div style="background: #222;">
+            <div class="container">
+                <nav>
+                    <ul class="nav nav-tabs pull-right">
+                        <li role="presentation" class="active"><a href="#">Home</a></li>
+                        <li role="presentation"><a href="#">Memory Light Relic</a></li>
+                        <li role="presentation"><a href="#">Memory Candle Dispenser</a></li>
+                        <li role="presentation"><a href="#">Partner Program</a></li>
                     </ul>
-                </div>
+                </nav>
             </div>
-        </nav>
+        </div>
         <div class="container">
-            <div class="starter-template">
-                <h1>Memory Light</h1>
-                <p class="lead">Memory Light content.</p>
-            </div>
+            <h1>Memory Light</h1>
+            <p class="lead">Memory Light content.</p>
+            <p>Losing a loved one is incredibly difficult in every stage of one's life.
+                Sometimes words aren't enough to help a loved one through their grief.
+                That's why Memory Light VOF Netherlands developed unique products to support bereavement care.
+            </p>
         </div>
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
         <script src="js/bootstrap.min.js"></script>

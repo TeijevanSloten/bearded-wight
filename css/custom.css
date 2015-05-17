@@ -1,3 +1,27 @@
-body > .container {
-    margin-top: 50px;
+@font-face {
+    font-family: 'ImperatorSmallCaps';
+    src:  url('../fonts/ImperatorSmallCaps.woff') format('woff');
+}
+
+.header-spacing {
+    height: 25px;
+}
+
+.nav-tabs > li > a {
+    color: white;
+}
+
+.nav-tabs > li > a:hover {
+    color: black;
+}
+
+.logo {
+    color: #fff;
+    font-size: 45px;
+    font-family: "ImperatorSmallCaps", "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+.logo-statement {
+    color: #dddddd;
+    font-family: "ImperatorSmallCaps", "Helvetica Neue",Helvetica,Arial,sans-serif;
 }
