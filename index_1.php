@@ -7,6 +7,7 @@
         <link href="css/bootstrap.min.css" rel="stylesheet">
         <link href="css/custom_1.css" rel="stylesheet">
 
+        <link rel="stylesheet" href="css/vendor/owl-carousel/owl.carousel.css">
         <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
         <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
         <!--[if lt IE 9]>
@@ -29,18 +30,46 @@
                         </div>
                     </div>
                     <div class="col-md-8" style="margin-top: 54px;">
-                            <ul class="nav nav-tabs pull-right">
-                                <li role="presentation" class="active"><a href="#">Home</a></li>
-                                <li role="presentation"><a href="#">Memory Light Relic</a></li>
-                                <li role="presentation"><a href="#">Memory Candle Dispenser</a></li>
-                                <li role="presentation"><a href="#">Partner Program</a></li>
-                            </ul>
+                        <ul class="nav nav-tabs pull-right">
+                            <li role="presentation" class="active"><a href="#">Home</a></li>
+                            <li role="presentation"><a href="#">Memory Light Relic</a></li>
+                            <li role="presentation"><a href="#">Memory Candle Dispenser</a></li>
+                            <li role="presentation"><a href="#">Partner Program</a></li>
+                        </ul>
                     </div>
                 </div>
             </div>
         </div>
-
         <div class="container">
+            <div class="row">
+                <div class="col-md-offset-1 col-md-6">
+                    <h1 style="font-weight: 200; margin-top: 150px; font-family: 'ImperatorSmallCaps'; font-size: 55px;">Memory Light</h1>
+                    <div id="owl-quotes" class="owl-carousel">
+                        <div><h3 style="font-weight: 200;"><i>“Memory Light Relic helpt je met het verwerken van de pijn van het verlies van een dierbare.”</i> - Frits</h3></div>
+                        <div><h3 style="font-weight: 200;"><i>“Memory Light Relic helpt je met het verwerken van de pijn van het verlies van een dierbare.”</i> - Frits</h3></div>
+                        <div><h3 style="font-weight: 200;"><i>“Memory Light Relic helpt je met het verwerken van de pijn van het verlies van een dierbare.”</i> - Frits</h3></div>
+                    </div>
+                </div>
+                <div>
+                    <img src="img/brandende kaars-refurbished2.png" style='margin-top: 90px;position: relative; right: -100px'>
+                </div>
+            </div>
+        </div>
+        <div class="jumbotron" style="margin-top: 100px; background:#F8F8F8">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-6">
+                        <h2>Memory Light Relic</h2>
+                        <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
+                        <p><a class="btn btn-default" href="#" role="button">View details »</a></p>
+                    </div>
+                    <div class="col-md-6">
+                        <h2>Memory Light Candle Dispenser</h2>
+                        <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
+                        <p><a class="btn btn-default" href="#" role="button">View details »</a></p>
+                    </div>
+                </div>
+            </div>
         </div>
 
         <footer class="footer">
@@ -69,5 +98,19 @@
         </footer>
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
         <script src="js/bootstrap.min.js"></script>
+
+        <script src="js/vendor/owl-caroursel/owl.carousel.js"></script>
+        <script>
+            $(document).ready(function () {
+                $('#owl-quotes').owlCarousel({
+                    items: 1,
+                    loop: true,
+                    autoplay: true,
+                    autoplayTimeout: 3000,
+                    smartSpeed: 3000,
+                    autoplayHoverPause: true
+                });
+            });
+        </script>        
     </body>
 </html>

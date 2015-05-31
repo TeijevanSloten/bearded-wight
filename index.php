@@ -7,6 +7,8 @@
         <link href="css/bootstrap.min.css" rel="stylesheet">
         <link href="css/custom.css" rel="stylesheet">
 
+        <link rel="stylesheet" href="css/vendor/owl-carousel/owl.carousel.css">
+
         <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
         <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
         <!--[if lt IE 9]>
@@ -28,10 +30,6 @@
                             </p>
                         </div>
                     </div>
-                    <div class="col-md-6">
-                        <!--<img src="img/brandende kaars-refurbished2.png" class="pull-right" style="height: 100px;margin-right: 30px;">-->
-                        
-                    </div>
                 </div>
             </div>
         </div>
@@ -48,34 +46,36 @@
             </div>
         </div>
         <div class="container">
-
-<!--            <div class="row">
-                <div class="col-md-8" style="padding-top:75px;">
-                    <p class="page-paragraph">
-                        Losing a loved one is incredibly difficult in every stage of one's life.
-                        Sometimes words aren't enough to help a loved one through their grief.
-                        That's why Memory Light VOF Netherlands developed unique products to support bereavement care.
-                    </p>
+            <div class="row">
+                <div class="col-md-offset-1 col-md-6">
+                    <h1 style="font-weight: 200; margin-top: 150px; font-family: 'ImperatorSmallCaps'; font-size: 55px;">Memory Light</h1>
+                    <div id="owl-quotes" class="owl-carousel">
+                        <div><h3 style="font-weight: 200;"><i>“Memory Light Relic helpt je met het verwerken van de pijn van het verlies van een dierbare.”</i> - Frits</h3></div>
+                        <div><h3 style="font-weight: 200;"><i>“Memory Light Relic helpt je met het verwerken van de pijn van het verlies van een dierbare.”</i> - Frits</h3></div>
+                        <div><h3 style="font-weight: 200;"><i>“Memory Light Relic helpt je met het verwerken van de pijn van het verlies van een dierbare.”</i> - Frits</h3></div>
+                    </div>
                 </div>
-                <div class="col-md-4" style="padding-top: 50px;">
-                    <img src="img/candle-mate-temp.jpg" alt="temp img" class="pull-right">
+                <div>
+                    <img src="img/brandende kaars-refurbished2.png" style='margin-top: 90px;position: relative; right: -100px'>
                 </div>
             </div>
+        </div>
 
-            <div class="row"><hr></div>
-
-            <div class="row">
-                <div class="col-md-8" style="padding-top:75px;">
-                    <p class="page-paragraph">
-                        Losing a loved one is incredibly difficult in every stage of one's life.
-                        Sometimes words aren't enough to help a loved one through their grief.
-                        That's why Memory Light VOF Netherlands developed unique products to support bereavement care.
-                    </p>
+        <div class="jumbotron" style="margin-top: 100px; background:#F8F8F8">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-6">
+                        <h2>Memory Light Relic</h2>
+                        <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
+                        <p><a class="btn btn-default" href="#" role="button">View details »</a></p>
+                    </div>
+                    <div class="col-md-6">
+                        <h2>Memory Light Candle Dispenser</h2>
+                        <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
+                        <p><a class="btn btn-default" href="#" role="button">View details »</a></p>
+                    </div>
                 </div>
-                <div class="col-md-4" style="padding-top: 50px;">
-                    <img src="img/candle-mate-temp.jpg" class="pull-right">
-                </div>
-            </div>-->
+            </div>
         </div>
 
         <footer class="footer">
@@ -104,5 +104,18 @@
         </footer>
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
         <script src="js/bootstrap.min.js"></script>
+        <script src="js/vendor/owl-caroursel/owl.carousel.js"></script>
+        <script>
+            $(document).ready(function () {
+                $('#owl-quotes').owlCarousel({
+                    items: 1,
+                    loop: true,
+                    autoplay: true,
+                    autoplayTimeout: 3000,
+                    smartSpeed: 3000,
+                    autoplayHoverPause: true
+                });
+            });
+        </script>
     </body>
 </html>
