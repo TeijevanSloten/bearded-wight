@@ -17,13 +17,21 @@
     <body>
         <div class="title-heading">
             <div class="container">
-                <div class="header clearfix">
-                    <h1 class="logo">
-                        Memory Light
-                    </h1>
-                    <p class="text-capitalize logo-statement">
-                        Professionals in support bereavement care
-                    </p>
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="header clearfix">
+                            <h1 class="logo">
+                                Memory Light
+                            </h1>
+                            <p class="text-capitalize logo-statement">
+                                Professionals in support bereavement care
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <!--<img src="img/brandende kaars-refurbished2.png" class="pull-right" style="height: 100px;margin-right: 30px;">-->
+                        
+                    </div>
                 </div>
             </div>
         </div>
@@ -41,7 +49,7 @@
         </div>
         <div class="container">
 
-            <div class="row">
+<!--            <div class="row">
                 <div class="col-md-8" style="padding-top:75px;">
                     <p class="page-paragraph">
                         Losing a loved one is incredibly difficult in every stage of one's life.
@@ -67,7 +75,7 @@
                 <div class="col-md-4" style="padding-top: 50px;">
                     <img src="img/candle-mate-temp.jpg" class="pull-right">
                 </div>
-            </div>
+            </div>-->
         </div>
 
         <footer class="footer">
