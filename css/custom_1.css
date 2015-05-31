@@ -1,0 +1,63 @@
+@font-face {
+    font-family: 'ImperatorSmallCaps';
+    src:  url('../fonts/ImperatorSmallCaps.woff') format('woff');
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    margin-bottom: 130px;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 130px;
+    background: #acc0de;
+}
+
+.header-spacing {
+    height: 25px;
+}
+
+.nav-tabs > li > a {
+    color: white;
+}
+
+.nav-tabs > li > a:hover {
+    color: black;
+}
+
+.logo {
+    color: #fff;
+    font-size: 45px;
+    font-family: "ImperatorSmallCaps", "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+.logo-statement {
+    margin: -10px 0 5px 10px;
+    color: #dddddd;
+    font-family: "ImperatorSmallCaps", "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+.title-heading {
+    background: #252949;
+
+}
+
+.menu-heading {
+    background: #282E52;
+}
+
+footer {
+    background: #dfdfdf;
+    text-align: center;
+}
+
+.page-paragraph {
+    font-size: 18px;
+}
