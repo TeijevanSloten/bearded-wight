@@ -19,6 +19,7 @@ body {
     height: 130px;
     background: #282E52;
     color: white;
+    text-align: center;
 }
 
 .header-spacing {
@@ -36,27 +37,21 @@ body {
 .logo {
     color: #fff;
     font-size: 45px;
-    font-family: "ImperatorSmallCaps", "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: "ImperatorSmallCaps", "Helvetica Neue", Helvetica,Arial,sans-serif;
 }
 
 .logo-statement {
     margin: -10px 0 5px 10px;
     color: #dddddd;
-    font-family: "ImperatorSmallCaps", "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: "ImperatorSmallCaps", "Helvetica Neue", Helvetica,Arial,sans-serif;
 }
 
 .title-heading {
-    background: #252949;
-
+    background: #0C1969;
 }
 
 .menu-heading {
     background: #282E52;
-}
-
-footer {
-    background: #dfdfdf;
-    text-align: center;
 }
 
 .page-paragraph {

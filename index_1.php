@@ -122,7 +122,8 @@
                     autoplay: true,
                     autoplayTimeout: 5000,
                     smartSpeed: 3000,
-                    autoplayHoverPause: true
+                    autoplayHoverPause: true,
+                    margin: 25
                 });
             });
         </script>
