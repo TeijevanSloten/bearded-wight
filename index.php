@@ -51,28 +51,42 @@
                     <h1 style="font-weight: 200; margin-top: 150px; font-family: 'ImperatorSmallCaps'; font-size: 55px;">Memory Light</h1>
                     <div id="owl-quotes" class="owl-carousel">
                         <div><h3 style="font-weight: 200;"><i>“Memory Light Relic helpt je met het verwerken van de pijn van het verlies van een dierbare.”</i> - Frits</h3></div>
-                        <div><h3 style="font-weight: 200;"><i>“Memory Light Relic helpt je met het verwerken van de pijn van het verlies van een dierbare.”</i> - Frits</h3></div>
-                        <div><h3 style="font-weight: 200;"><i>“Memory Light Relic helpt je met het verwerken van de pijn van het verlies van een dierbare.”</i> - Frits</h3></div>
+                        <div><h3 style="font-weight: 200;"><i>“Voor onze begraafplaats een perfecte aanvulling op ons servicepakket.”</i> - Martin</h3></div>
+                        <div><h3 style="font-weight: 200;"><i>“Zur Andenken von meine verstorbene Mutter hab ich ein wenig Asche in den Memory Light Relic: Licht ins Dunkel meine trauer.”</i> - Natasha</h3></div>
                     </div>
                 </div>
                 <div>
-                    <img src="img/brandende kaars-refurbished2.png" style='margin-top: 90px;position: relative; right: -100px'>
+                    <img src="img/brandende kaars-refurbished2.png" style='margin-top: 95px;position: relative; right: -100px'>
                 </div>
             </div>
         </div>
 
-        <div class="jumbotron" style="margin-top: 100px; background:#F8F8F8">
+        <div class="jumbotron" style="margin-top: 130px; background:#F8F8F8; margin-bottom: 0">
             <div class="container">
                 <div class="row">
                     <div class="col-md-6">
-                        <h2>Memory Light Relic</h2>
-                        <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
+                        <h2 style="margin-left: 20px;">Memory Light Relic</h2>
+                        <p>Our bereavement Memory Light is unique. For those who want to express their heart felt sympathy with an everlasting gift of light. To comfort people in time of emotional pain.</p>
                         <p><a class="btn btn-default" href="#" role="button">View details »</a></p>
                     </div>
                     <div class="col-md-6">
-                        <h2>Memory Light Candle Dispenser</h2>
-                        <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
+                        <h2 style="margin-left: 20px;">Memory Light Candle Dispenser</h2>
+                        <p>The Memory Light Candle dispenser is a robust and well proven concept of professional cemetery service. The dispenser – candle including lighter - is a highly appreciated asset at more than 700 cemeteries in Europe.</p>
                         <p><a class="btn btn-default" href="#" role="button">View details »</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="jumbotron" style="background:#FFFFFD">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-10 col-md-offset-1">
+                        <h1 style="font-weight: 200; font-size: 55px; text-align: center">Join our Partner Program</h1>
+                        <p style="text-align: center">Suitable for entrepreneurs, owners of cemeteries and crematory. </p>
+                        <p style="text-align: center">Memory Light: A perfect concept of a reliable partner!</p>
+                        <br>
+                        <button class="btn btn-success btn-lg center-block text-capitalize">Join us now</button>
                     </div>
                 </div>
             </div>
@@ -111,7 +125,7 @@
                     items: 1,
                     loop: true,
                     autoplay: true,
-                    autoplayTimeout: 3000,
+                    autoplayTimeout: 5000,
                     smartSpeed: 3000,
                     autoplayHoverPause: true
                 });
