@@ -17,6 +17,7 @@ body {
     bottom: 0;
     width: 100%;
     height: 130px;
+    background: #acc0de;
 }
 
 .header-spacing {
@@ -45,22 +46,17 @@ body {
 
 .title-heading {
     background-image: -ms-linear-gradient(top, #070E3B 0%, #0C1969 60%, #081042 100%);
+    background-image: -moz-linear-gradient(top, #070E3B 0%, #0C1969 60%, #081042 100%);
+    background-image: -o-linear-gradient(top, #070E3B 0%, #0C1969 60%, #081042 100%);
+    background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #070E3B), color-stop(0.6, #0C1969), color-stop(1, #081042));
+    background-image: -webkit-linear-gradient(top, #070E3B 0%, #0C1969 60%, #081042 100%);
+    background-image: linear-gradient(to bottom, #070E3B 0%, #0C1969 60%, #081042 100%);
 
-background-image: -moz-linear-gradient(top, #070E3B 0%, #0C1969 60%, #081042 100%);
-
-background-image: -o-linear-gradient(top, #070E3B 0%, #0C1969 60%, #081042 100%);
-
-background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #070E3B), color-stop(0.6, #0C1969), color-stop(1, #081042));
-
-background-image: -webkit-linear-gradient(top, #070E3B 0%, #0C1969 60%, #081042 100%);
-
-background-image: linear-gradient(to bottom, #070E3B 0%, #0C1969 60%, #081042 100%);
-    
 }
 
 .menu-heading {
-   /*background: #222;*/
-   background: #282E52;
+    /*background: #222;*/
+    background: #282E52;
 }
 
 footer {
