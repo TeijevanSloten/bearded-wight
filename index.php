@@ -5,10 +5,9 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link href="css/bootstrap.min.css" rel="stylesheet">
-        <link href="css/custom.css" rel="stylesheet">
+        <link href="css/custom_1.css" rel="stylesheet">
 
         <link rel="stylesheet" href="css/vendor/owl-carousel/owl.carousel.css">
-
         <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
         <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
         <!--[if lt IE 9]>
@@ -20,7 +19,7 @@
         <div class="title-heading">
             <div class="container">
                 <div class="row">
-                    <div class="col-md-6">
+                    <div class="col-md-4">
                         <div class="header clearfix">
                             <h1 class="logo">
                                 Memory Light
@@ -30,19 +29,15 @@
                             </p>
                         </div>
                     </div>
+                    <div class="col-md-8" style="margin-top: 54px;">
+                        <ul class="nav nav-tabs pull-right">
+                            <li role="presentation" class="active"><a href="#">Home</a></li>
+                            <li role="presentation"><a href="relic.php">Memory Light Relic</a></li>
+                            <li role="presentation"><a href="dispenser.php">Memory Candle Dispenser</a></li>
+                            <li role="presentation"><a href="contact.php">Partner Program</a></li>
+                        </ul>
+                    </div>
                 </div>
-            </div>
-        </div>
-        <div class="menu-heading">
-            <div class="container">
-                <nav>
-                    <ul class="nav nav-tabs pull-right">
-                        <li role="presentation" class="active"><a href="#">Home</a></li>
-                        <li role="presentation"><a href="#">Memory Light Relic</a></li>
-                        <li role="presentation"><a href="#">Memory Candle Dispenser</a></li>
-                        <li role="presentation"><a href="#">Partner Program</a></li>
-                    </ul>
-                </nav>
             </div>
         </div>
         <div class="container">
@@ -56,7 +51,7 @@
                     </div>
                 </div>
                 <div>
-                    <img src="img/brandende kaars-refurbished2.png" style='margin-top: 95px;position: relative; right: -100px'>
+                    <img src="img/photo1330.png" style='margin-top: 95px;position: relative; right: -100px; height: 300px;'>
                 </div>
             </div>
         </div>
@@ -77,7 +72,7 @@
                 </div>
             </div>
         </div>
-        
+
         <div class="jumbotron" style="background:#FFFFFD">
             <div class="container">
                 <div class="row">
@@ -132,5 +127,3 @@
                 });
             });
         </script>
-    </body>
-</html>
