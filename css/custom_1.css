@@ -26,6 +26,10 @@ body {
     height: 25px;
 }
 
+.nav-tabs {
+  border-bottom: 0px;
+}
+
 .nav-tabs > li > a {
     color: white;
 }
