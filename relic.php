@@ -50,14 +50,14 @@
                 </div>
             </div>
         </div>
-        <div class="jumbotron" style="margin-top: 0px; background:#F8F8F8; margin-bottom: 0">
+        <div class="jumbotron" style="margin-top: 0px; background:#F8F8F8;padding-bottom: 175px;">
             <div class="container">
                 <div class="col-md-offset-1 col-md-7">
-                    <h1 style="font-weight: 200; margin-top: 150px; font-family: 'ImperatorSmallCaps'; font-size: 55px;">Memory Light Relic</h1>
+                    <h1 class="centered-title">Memory Light Relic</h1>
                     <p class="standard-text">
                         Our bereavement Memory Light Relic helps those who want to express their heart felt sympathy with an everlasting gift of light.<br>To comfort people in time of emotional pain.
                     </p>
-                    <ul class="standard-text">
+                    <ul style="margin-top: 40px; margin-left: 30px; font-size: 20px;">
                         <li>Can be personalized</li>
                         <li>Made of high quality and durable materials</li>
                         <li>Compartment for holding ashes</li>

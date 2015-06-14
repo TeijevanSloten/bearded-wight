@@ -53,7 +53,7 @@
         <div class="jumbotron" style="margin-top: 0px; background:#F8F8F8; margin-bottom: 0">
             <div class="container">
                 <div class="col-md-offset-1 col-md-6">
-                    <h1 style="font-weight: 200; margin-top: 150px; font-family: 'ImperatorSmallCaps'; font-size: 55px;">Memory Light</h1>
+                    <h1 class="centered-title" style="margin-top: 150px;">Memory Light</h1>
                     <div id="owl-quotes" class="owl-carousel">
                         <div><h3 style="font-weight: 200;"><i>“A valuable service. Visitors can buy a grave candle every day.”</i> - Martin</h3></div>
                         <div><h3 style="font-weight: 200;"><i>“For our cemetery a perfect complementary service.”</i> - Jorg</h3></div>

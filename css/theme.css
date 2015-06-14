@@ -111,3 +111,10 @@ body {
     margin-top:10px;
     padding-left: 50px;
 }
+
+.centered-title {
+    font-weight: 200;
+    margin-top: 100px;
+    font-family: 'ImperatorSmallCaps';
+    font-size: 55px !important;
+}
