@@ -115,7 +115,7 @@
                     <a href="#" style="text-decoration: none;">
                         <div class="footer-icon"><span class="glyphicon glyphicon-phone" aria-hidden="true"></span></div>
                     </a>
-                    <a href="#" style="text-decoration: none;">
+                    <a href="contact.php" style="text-decoration: none;">
                         <div class="footer-icon"><span class="glyphicon glyphicon-comment" aria-hidden="true"></span></div>
                     </a>
                 </div>
