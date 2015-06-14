@@ -78,19 +78,21 @@ body {
 }
 
 .footer-icon {
-    margin-right: 5px;
+    margin-right: 10px;
     color: white;
     font-size: 25px;
     border: 1px solid white;
-    display: inline;
+    display: inline-block;
     padding: 6px;
     border-radius: 50%;
     text-align: center;
+    height: 45px;
+    width: 45px;
 }
 
 .footer-icon:hover {
-    color: grey;
-    border-color: grey;
+    color: rgb(229, 175, 91);
+    border-color: rgb(229, 175, 91);
 }
 
 .footer-title {
