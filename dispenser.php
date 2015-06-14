@@ -40,7 +40,36 @@
                 </div>
             </div>
         </div>
-
+        <div class="container">
+            <div class="row">
+                <hr>
+                <div class="col-md-10 col-md-offset-1">
+                    <p style="font-size: 17px;">
+                        The Memory Light Candle dispenser is a robust and well proven concept of
+                        professional cemetery service. The dispenser – candle including lighter - is a
+                        highly appreciated asset at more than 700 cemeteries in Europe.
+                        Visitors can 7 days a week light a candle to remember loves ones throughout the
+                        year and at important dates such as Christmas, anniversaries et cetera.
+                        A modern dispenser of 10 year proven technology, violent proof and focus on
+                        sustainability. Our candles are especially made for better outdoor burning than
+                        regular candles.
+                        Memory Light Candle Dispenser: 
+                    </p>
+                    <ul style="font-size: 17px;">
+                        <li>Made of high quality materials and weather resistant</li>
+                        <li>Violent proof, secured money safe</li>
+                        <li>A long live span and hardly any maintenance</li>
+                        <li>Price flexibility, insert money display</li>
+                        <li>Registration system</li>
+                        <li>Rechargeable battery</li>
+                        <li>Minimum use of energy</li>
+                        <li>Candle including lighter</li>
+                        <li>Return of the used candle-holder for recycling</li>
+                        <li>Extra flow of funds</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
         <div class="jumbotron" style="background:#FFFFFD">
             <div class="container">
                 <div class="row">
@@ -95,3 +124,5 @@
                 });
             });
         </script>
+    </body>
+</html>

@@ -40,6 +40,33 @@
                 </div>
             </div>
         </div>
+        <div class="container">
+            <div class="row">
+                <hr>
+                <div class="col-md-10 col-md-offset-1">
+                    <p style="font-size: 17px;">
+                        Our bereavement Memory Light is unique. For those who want to express their
+                        heart felt sympathy with an everlasting gift of light. To comfort people in time of
+                        emotional pain.
+                        A beautiful candle holder with a compartment for holding a portion of a loved
+                        one's ashes.
+                        The candles are refillable. Even suitable for battery operated candles. The
+                        Memory Light can be personalized by engraving the name of the beloved one.
+                        Memory Light Relic:
+                    </p>
+                    <ul style="font-size: 17px;">
+                        <li>Unique</li>
+                        <li>Compartment for holding ashes</li>
+                        <li>Refillable</li>
+                        <li>Suitable for battery operated candles</li>
+                        <li>Can be personalized</li>
+                        <li>Made of high quality and durable materials</li>
+                        <li>Already thousands sold in Europe</li>
+                        <li>Extra flow of funds</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
         <div class="jumbotron" style="background:#FFFFFD">
             <div class="container">
                 <div class="row">
@@ -94,3 +121,5 @@
                 });
             });
         </script>
+    </body>
+</html>
