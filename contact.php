@@ -4,8 +4,9 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link href="css/bootstrap.min.css" rel="stylesheet">
-        <link href="css/custom_1.css" rel="stylesheet">
+        <link href="css/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+        <link href="css/theme.css" rel="stylesheet">
+        <link href="css/contact.css" rel="stylesheet">
 
         <link rel="stylesheet" href="css/vendor/owl-carousel/owl.carousel.css">
         <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
@@ -42,81 +43,84 @@
         </div>
 
         <div class="container">
-            <h1 style="font-weight: 200; font-size: 55px; text-align: center">Join our Partner Program</h1>
-            <p style="font-size: 17px;">
-                Join our partner program!
-Become also a Partner of Memory Light and start your own business. We offer you
-an unique oppertunity.
-You can offer a unique service which is highly appreciated at every cemetery and
-crematory. We give partners full technical support and have an 'on site'
-information program. Memory Light shares her knowledge and offers you extra
-earnings.
-Do not hesitate! Use our products and expertise to become succesfull. You can
-respond by the attachted form and we will contact you personally. 
-            </p>            
+            <h1 class="standard-h1">Partner Program</h1>
             <br>
+            <p class="standard-text">
+                Join our partner program and start your own business.
+                You can offer a service which is highly appreciated at every cemetery and crematory.
+                We give full technical support and have an 'on site' information program.
+                Memory Light shares her knowledge and offers you extra earnings.
+            </p>
+            <p class="standard-text">Respond by the attached form and we will contact you personally.</p>
+            <hr>
             <div class="row">
-                <div class="col-md-12">
-                    <br>
+                <div class="col-md-6">
                     <div class="row">
-                        <div class="col-md-4 col-md-offset-1 jumbotron" style="height: 125px; padding-top: 25px;">
-                            <h3 style="margin-top:0; font-weight: 200;">E-mail:</h3>
-                            <p><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span> <a href="">info@memorylight.eu</a></p>
+                        <div class="col-md-5 jumbotron text-center contactjumbotron">
+                            <h3 class="contacttitle">E-mail</h3>
+                            <p>
+                                <span class="glyphicon glyphicon-envelope" aria-hidden="true"></span>
+                                <a href="#">&nbsp;info@memorylight.eu</a>
+                            </p>
                         </div>
-                        <div class="col-md-4 col-md-offset-1 jumbotron" style="height: 125px; padding-top: 25px;">
-                            <h3 style="margin-top:0; font-weight: 200;">Telephone:</h3>
-                            <p><span class="glyphicon glyphicon-phone-alt" aria-hidden="true"></span> <a href="#">06-12345678</a></p>
+                        <div class="col-md-5 col-md-offset-1 jumbotron text-center contactjumbotron">
+                            <h3 class="contacttitle">Telephone:</h3>
+                            <p>
+                                <span class="glyphicon glyphicon-phone-alt" aria-hidden="true"></span>
+                                <a href="#">&nbsp;06-12345678</a>
+                            </p>
                         </div>
-                        <div class="col-md-4 col-md-offset-1 jumbotron" style="height: 150px;padding-top: 25px;">
-                            <h3 style="font-weight: 200;">Online</h3>
-                            <p><span class="glyphicon glyphicon-home" aria-hidden="true"></span> <a href="#">memorylight.eu</a></p>
+                        <div class="col-md-5 jumbotron text-center contactjumbotron">
+                            <h3 class="contacttitle">Online</h3>
+                            <p>
+                                <span class="glyphicon glyphicon-home" aria-hidden="true"></span>
+                                <a href="#">&nbsp;memorylight.eu</a>
+                            </p>
                         </div>
-                        <div class="col-md-4 col-md-offset-1 jumbotron"  style="height: 150px; padding-top: 0px;">
-                            <h3 style="font-weight: 200;">Address</h3>
-                            <p><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span> PO Box 1234
-                                <br>&nbsp;&nbsp;&nbsp;1234 AB Delft
-                                <br>&nbsp;&nbsp;&nbsp;&nbsp;The Netherlands
+                        <div class="col-md-5 jumbotron col-md-offset-1 text-center contactjumbotron">
+                            <h3 class="contacttitle">Address</h3>
+                            <p>
+                                <span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span>
+                                <a href="#">&nbsp;1234 AB Delft<br>The Netherlands</a>
                             </p>
                         </div>
                     </div>
                 </div>
-                <div class="col-md-12" style="padding-left: 30px;">
-                    <hr>
+                <div class="col-md-6">
                     <form class="form-horizontal">
                         <div class="form-group">
-                            <label for="name" class="col-sm-2 control-label" style="text-align: left">Name</label>
+                            <label for="name" class="col-sm-2 control-label">Name</label>
                             <div class="col-sm-10">
                                 <input type="text" class="form-control" id="name">
                             </div>
                         </div>
                         <div class="form-group">
-                            <label for="company" class="col-sm-2 control-label" style="text-align: left">Company</label>
+                            <label for="company" class="col-sm-2 control-label">Company</label>
                             <div class="col-sm-10">
                                 <input type="text" class="form-control" id="company">
                             </div>
                         </div>
                         <div class="form-group">
-                            <label for="telephone" class="col-sm-2 control-label" style="text-align: left">Telephone</label>
+                            <label for="telephone" class="col-sm-2 control-label">Telephone</label>
                             <div class="col-sm-10">
                                 <input type="phone" class="form-control" id="telephone">
                             </div>
                         </div>
                         <div class="form-group">
-                            <label for="email" class="col-sm-2 control-label" style="text-align: left">Email</label>
+                            <label for="email" class="col-sm-2 control-label">Email</label>
                             <div class="col-sm-10">
                                 <input type="email" class="form-control" id="email">
                             </div>
                         </div>
                         <div class="form-group">
-                            <label for="message" class="col-sm-2 control-label" style="text-align: left">Message</label>
+                            <label for="message" class="col-sm-2 control-label">Message</label>
                             <div class="col-sm-10">
-                                <textarea class="form-control" id="message" style="height: 150px;"></textarea>
+                                <textarea class="form-control" id="message" style="height: 150px;" required="true"></textarea>
                             </div>
                         </div>
-
                         <div class="form-group">
                             <div class="col-sm-offset-2 col-sm-10">
-                                <button type="submit" class="btn btn-lg col-md-3 pull-right btn-danger">Submit</button>
+                                <button type="submit" class="btn btn-lg col-md-3 pull-right btn-warning">Submit</button>
                             </div>
                         </div>
                     </form>

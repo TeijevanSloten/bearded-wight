@@ -1,0 +1,23 @@
+.contacttitle {
+    margin-top:0;
+    font-weight: 200;
+}
+
+.contactjumbotron {
+    height: 125px;
+    padding: 25px 0 0 8px !important;
+}
+
+.contactfont {
+    font-family: "contactfont", "Helvetica Neue", Helvetica !important;
+    font-weight: 800;
+}
+.control-label{
+    font-family: "contactfont", "Helvetica Neue", Helvetica !important;
+    font-size: 18px;
+    text-align: left !important;
+}
+
+.form-control {
+    border-radius: 0;
+}

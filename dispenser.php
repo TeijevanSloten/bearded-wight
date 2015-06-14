@@ -4,8 +4,8 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link href="css/bootstrap.min.css" rel="stylesheet">
-        <link href="css/custom_1.css" rel="stylesheet">
+        <link href="css/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+        <link href="css/theme.css" rel="stylesheet">
 
         <link rel="stylesheet" href="css/vendor/owl-carousel/owl.carousel.css">
         <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
@@ -44,7 +44,7 @@
             <div class="row">
                 <hr>
                 <div class="col-md-10 col-md-offset-1">
-                    <p style="font-size: 17px;">
+                    <p class="standard-text">
                         The Memory Light Candle dispenser is a robust and well proven concept of
                         professional cemetery service. The dispenser – candle including lighter - is a
                         highly appreciated asset at more than 700 cemeteries in Europe.
@@ -55,7 +55,7 @@
                         regular candles.
                         Memory Light Candle Dispenser: 
                     </p>
-                    <ul style="font-size: 17px;">
+                    <ul class="standard-text">
                         <li>Made of high quality materials and weather resistant</li>
                         <li>Violent proof, secured money safe</li>
                         <li>A long live span and hardly any maintenance</li>
@@ -70,13 +70,13 @@
                 </div>
             </div>
         </div>
-        <div class="jumbotron" style="background:#FFFFFD">
+        <div class="jumbotron" style="margin-top: 50px; background:#F8F8F8; margin-bottom: 0">
             <div class="container">
                 <div class="row">
                     <div class="col-md-10 col-md-offset-1">
-                        <h1 style="font-weight: 200; font-size: 55px; text-align: center">Join our Partner Program</h1>
-                        <p style="text-align: center">Suitable for entrepreneurs, owners of cemeteries and crematory. </p>
-                        <p style="text-align: center">Memory Light: A perfect concept of a reliable partner!</p>
+                        <h1 class="standard-h1">Join our Partner Program</h1>
+                        <p class="text-center">Suitable for entrepreneurs, owners of cemeteries and crematory. </p>
+                        <p class="text-center">Memory Light: A perfect concept of a reliable partner!</p>
                         <br>
                         <button class="btn btn-success btn-lg center-block text-capitalize">Join us now</button>
                     </div>
