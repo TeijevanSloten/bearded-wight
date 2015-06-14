@@ -50,34 +50,28 @@
                 </div>
             </div>
         </div>
-        <div class="container">
-            <div class="row">
-                <hr>
-                <div class="col-md-10 col-md-offset-1">
+        
+        <div class="jumbotron" style="margin-top: 0px; background:#F8F8F8; margin-bottom: 0">
+            <div class="container">
+                <div class="col-md-offset-1 col-md-7">
+                    <h1 style="font-weight: 200; margin-top: 150px; font-family: 'ImperatorSmallCaps'; font-size: 55px;">Memory Light Relic</h1>
                     <p class="standard-text">
-                        Our bereavement Memory Light is unique. For those who want to express their
-                        heart felt sympathy with an everlasting gift of light. To comfort people in time of
-                        emotional pain.
-                        A beautiful candle holder with a compartment for holding a portion of a loved
-                        one's ashes.
-                        The candles are refillable. Even suitable for battery operated candles. The
-                        Memory Light can be personalized by engraving the name of the beloved one.
-                        Memory Light Relic:
+                        Our bereavement Memory Light Relic helps those who want to express their heart felt sympathy with an everlasting gift of light.<br>To comfort people in time of emotional pain.
                     </p>
                     <ul class="standard-text">
-                        <li>Unique</li>
-                        <li>Compartment for holding ashes</li>
-                        <li>Refillable</li>
-                        <li>Suitable for battery operated candles</li>
                         <li>Can be personalized</li>
                         <li>Made of high quality and durable materials</li>
-                        <li>Already thousands sold in Europe</li>
+                        <li>Compartment for holding ashes</li>
                         <li>Extra flow of funds</li>
+                        <li>Already thousands sold in Europe</li>
                     </ul>
+                </div>
+                <div class="col-md-4">
+                    <img src="img/memorylightrelic.png" style='margin-top: 95px; height: 300px;'>
                 </div>
             </div>
         </div>
-        <div class="jumbotron" style="margin-top: 50px; background:#F8F8F8; margin-bottom: 0">
+        <div class="jumbotron" style="margin-top: 0px; background:#F8F8F8; margin-bottom: 0">
             <div class="container">
                 <div class="row">
                     <div class="col-md-10 col-md-offset-1">
@@ -85,7 +79,7 @@
                         <p class="text-center">Suitable for entrepreneurs, owners of cemeteries and crematory. </p>
                         <p class="text-center">Memory Light: A perfect concept of a reliable partner!</p>
                         <br>
-                        <button class="btn btn-success btn-lg center-block text-capitalize">Join us now</button>
+                        <p class="text-center"><a class="btn btn-success btn-lg text-capitalize" href="contact.php" role="button">join us now</a></p>
                     </div>
                 </div>
             </div>

@@ -55,9 +55,10 @@
                 <div class="col-md-offset-1 col-md-6">
                     <h1 style="font-weight: 200; margin-top: 150px; font-family: 'ImperatorSmallCaps'; font-size: 55px;">Memory Light</h1>
                     <div id="owl-quotes" class="owl-carousel">
-                        <div><h3 style="font-weight: 200;"><i>“Memory Light Relic helpt je met het verwerken van de pijn van het verlies van een dierbare.”</i> - Frits</h3></div>
-                        <div><h3 style="font-weight: 200;"><i>“Voor onze begraafplaats een perfecte aanvulling op ons servicepakket.”</i> - Martin</h3></div>
-                        <div><h3 style="font-weight: 200;"><i>“Zur Andenken von meine verstorbene Mutter hab ich ein wenig Asche in den Memory Light Relic: Licht ins Dunkel meine trauer.”</i> - Natasha</h3></div>
+                        <div><h3 style="font-weight: 200;"><i>“A valuable service. Visitors can buy a grave candle every day.”</i> - Martin</h3></div>
+                        <div><h3 style="font-weight: 200;"><i>“For our cemetery a perfect complementary service.”</i> - Jorg</h3></div>
+                        <div><h3 style="font-weight: 200;"><i>“We have Memory Light Relic in our program. Our customers are very satisfied.”</i> - Monica</h3></div>
+                        <div><h3 style="font-weight: 200;"><i>“I have a little ash of my mother in the Memory Light Relic: light on my grief.”</i> - Natasha</h3></div>
                     </div>
                 </div>
                 <div>
@@ -72,12 +73,12 @@
                     <div class="col-md-6">
                         <h2 style="margin-left: 20px;">Memory Light Relic</h2>
                         <p>Our bereavement Memory Light is unique. For those who want to express their heart felt sympathy with an everlasting gift of light. To comfort people in time of emotional pain.</p>
-                        <p><a class="btn btn-default" href="#" role="button">View details »</a></p>
+                        <p><a class="btn btn-default" href="relic.php" role="button">View details »</a></p>
                     </div>
                     <div class="col-md-6">
                         <h2 style="margin-left: 20px;">Memory Light Candle Dispenser</h2>
                         <p>The Memory Light Candle dispenser is a robust and well proven concept of professional cemetery service. The dispenser – candle including lighter - is a highly appreciated asset at more than 700 cemeteries in Europe.</p>
-                        <p><a class="btn btn-default" href="#" role="button">View details »</a></p>
+                        <p><a class="btn btn-default" href="dispenser.php" role="button">View details »</a></p>
                     </div>
                 </div>
             </div>
@@ -91,7 +92,7 @@
                         <p class="text-center">Suitable for entrepreneurs, owners of cemeteries and crematory. </p>
                         <p class="text-center">Memory Light: A perfect concept of a reliable partner!</p>
                         <br>
-                        <button class="btn btn-success btn-lg center-block text-capitalize">Join us now</button>
+                        <p class="text-center"><a class="btn btn-success btn-lg text-capitalize" href="contact.php" role="button">join us now</a></p>
                     </div>
                 </div>
             </div>
