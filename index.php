@@ -54,7 +54,14 @@
         <div class="jumbotron" style="margin-top: 0px; background:#F8F8F8; margin-bottom: 0">
             <div class="container">
                 <div class="col-md-offset-1 col-md-6">
-                    <h1 class="centered-title" style="margin-top: 150px;">Memory Light</h1>
+                    <h1 class="centered-title" style="margin-top: 100px;">Memory Light</h1>
+                    <div>
+                        <p class="standard-text">
+                            Losing a loved one is incredibly difficult.
+                            Sometimes words aren't enough to help.
+                            That's why Memory Light Netherlands developed unique products to support bereavement care.
+                        </p>
+                    </div>
                     <div id="owl-quotes" class="owl-carousel">
                         <div><h3 style="font-weight: 200;"><i>“A valuable service. Visitors can buy a grave candle every day.”</i> - Martin</h3></div>
                         <div><h3 style="font-weight: 200;"><i>“For our cemetery a perfect complementary service.”</i> - Jorg</h3></div>
@@ -68,7 +75,7 @@
             </div>
         </div>
 
-        <div class="jumbotron" style="margin-top: 50px; background:#FFFFFD; margin-bottom: 0">
+        <div class="jumbotron" style="margin-top: 0px; background:#FFFFFD; margin-bottom: 0">
             <div class="container">
                 <div class="row">
                     <div class="col-md-6">
@@ -85,7 +92,7 @@
             </div>
         </div>
 
-        <div class="jumbotron" style="margin-top: 50px; background:#F8F8F8; margin-bottom: 0">
+        <div class="jumbotron" style="margin-top: 0px; background:#F8F8F8; margin-bottom: 0">
             <div class="container">
                 <div class="row">
                     <div class="col-md-10 col-md-offset-1">

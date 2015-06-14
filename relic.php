@@ -51,7 +51,7 @@
                 </div>
             </div>
         </div>
-        <div class="jumbotron" style="margin-top: 0px; background:#F8F8F8;padding-bottom: 175px;">
+        <div class="jumbotron" style="margin-top: 0px; background:#F8F8F8;padding-bottom: 50px;">
             <div class="container">
                 <div class="col-md-offset-1 col-md-7">
                     <h1 class="centered-title">Memory Light Relic</h1>
@@ -75,7 +75,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-10 col-md-offset-1">
-                        <h1 class="standard-h1">Specifications</h1>
+                        <h1 class="standard-h1" style="margin-top: 0px;">Specifications</h1>
                         <hr>
                         <div class="row">
                             <div class="col-md-6">

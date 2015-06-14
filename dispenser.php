@@ -89,7 +89,7 @@
                         <hr>
                     </div>
                     <div class="col-md-6" style="padding: 0 40px 0 40px;">
-                        <h3 class="spec-label" style="text-align: center">Small</h3>
+                        <h3 class="spec-label" style="text-align: center">Type 1</h3>
                         <hr>
                         <div class="row">
                             <div class="col-md-6">
@@ -161,7 +161,7 @@
                         </div>
                     </div>
                     <div class="col-md-6" style="padding: 0 40px 0 40px;">
-                        <h3 class="spec-label" style="text-align: center">Large</h3>
+                        <h3 class="spec-label" style="text-align: center">Type 2</h3>
                         <hr>
                         <div class="row">
                             <div class="col-md-6">
