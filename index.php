@@ -40,8 +40,8 @@
                 </div>
             </div>
         </div>
-        <div class="container">
-            <div class="row">
+        <div class="jumbotron" style="margin-top: 0px; background:#F8F8F8; margin-bottom: 0">
+            <div class="container">
                 <div class="col-md-offset-1 col-md-6">
                     <h1 style="font-weight: 200; margin-top: 150px; font-family: 'ImperatorSmallCaps'; font-size: 55px;">Memory Light</h1>
                     <div id="owl-quotes" class="owl-carousel">
@@ -56,7 +56,7 @@
             </div>
         </div>
 
-        <div class="jumbotron" style="margin-top: 130px; background:#F8F8F8; margin-bottom: 0">
+        <div class="jumbotron" style="margin-top: 50px; background:#FFFFFD; margin-bottom: 0">
             <div class="container">
                 <div class="row">
                     <div class="col-md-6">
@@ -73,7 +73,7 @@
             </div>
         </div>
 
-        <div class="jumbotron" style="background:#FFFFFD">
+        <div class="jumbotron" style="margin-top: 50px; background:#F8F8F8; margin-bottom: 0">
             <div class="container">
                 <div class="row">
                     <div class="col-md-10 col-md-offset-1">
