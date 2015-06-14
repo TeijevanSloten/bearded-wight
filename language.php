@@ -40,7 +40,7 @@
                         </div>
                         <div style="margin-top: 20px;">
                             <ul class="nav nav-tabs pull-right">
-                                <li role="presentation" class="active"><a href="#">Home</a></li>
+                                <li role="presentation" class="active"><a href="index.php">Home</a></li>
                                 <li role="presentation"><a href="relic.php">Memory Light Relic</a></li>
                                 <li role="presentation"><a href="dispenser.php">Memory Candle Dispenser</a></li>
                                 <li role="presentation"><a href="contact.php">Partner Program</a></li>
@@ -85,20 +85,6 @@
             </div>
         </footer>
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
-        <script src="js/bootstrap.min.js"></script>
-        <script src="js/vendor/owl-caroursel/owl.carousel.js"></script>
-        <script>
-            $(document).ready(function () {
-                $('#owl-quotes').owlCarousel({
-                    items: 1,
-                    loop: true,
-                    autoplay: true,
-                    autoplayTimeout: 5000,
-                    smartSpeed: 3000,
-                    autoplayHoverPause: true,
-                    margin: 25
-                });
-            });
-        </script>
+        <script src="js/vendor/bootstrap/bootstrap.min.js"></script>
     </body>
 </html>
