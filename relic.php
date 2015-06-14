@@ -93,25 +93,25 @@
 
         <footer class="footer">
             <div class="container">
-                <div class="col-md-3 col-md-offset-1">
-                    <h5>Memory Light</h5>
-                    <ul class="list-unstyled small">
-                        <li>Memory Light VOF</li>
-                        <li>P.O Box</li>
-                        <li>Delft</li>
-                        <li>Mobile</li>
-                        <li><a href="mailto:info@memorylight.eu">info@memorylight.eu</a></li>
-                    </ul>
+                <div class="col-md-6 col-md-offset-1">
+                    <h4 class="footer-title">About</h4>
+                    <p style="color: white;">
+                        Losing a loved one is incredibly difficult.
+                        Sometimes words aren't enough to help.
+                        That's why Memory Light Netherlands developed unique products to support bereavement care.
+                    </p>
                 </div>
-                <div class="col-md-3 col-md-offset-3">
-                    <h5>Memory Light</h5>
-                    <ul class="list-unstyled small">
-                        <li>Memory Light VOF</li>
-                        <li>P.O Box</li>
-                        <li>Delft</li>
-                        <li>Mobile</li>
-                        <li><a href="mailto:info@memorylight.eu">info@memorylight.eu</a></li>
-                    </ul>
+                <div class="col-md-3 col-md-offset-1">
+                    <h4 class="footer-title ">Get in touch!</h4>
+                    <a href="mailto:info@memorylight.eu" style="text-decoration: none;">
+                        <div class="footer-icon"><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span></div>
+                    </a>
+                    <a href="#" style="text-decoration: none;">
+                        <div class="footer-icon"><span class="glyphicon glyphicon-phone" aria-hidden="true"></span></div>
+                    </a>
+                    <a href="contact.php" style="text-decoration: none;">
+                        <div class="footer-icon"><span class="glyphicon glyphicon-comment" aria-hidden="true"></span></div>
+                    </a>
                 </div>
             </div>
         </footer>
