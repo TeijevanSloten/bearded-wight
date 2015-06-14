@@ -50,33 +50,187 @@
                 </div>
             </div>
         </div>
-        <div class="container">
-            <div class="row">
-                <hr>
-                <div class="col-md-10 col-md-offset-1">
-                    <p class="standard-text">
-                        The Memory Light Candle dispenser is a robust and well proven concept of
-                        professional cemetery service. The dispenser – candle including lighter - is a
-                        highly appreciated asset at more than 700 cemeteries in Europe.
-                        Visitors can 7 days a week light a candle to remember loves ones throughout the
-                        year and at important dates such as Christmas, anniversaries et cetera.
-                        A modern dispenser of 10 year proven technology, violent proof and focus on
-                        sustainability. Our candles are especially made for better outdoor burning than
-                        regular candles.
-                        Memory Light Candle Dispenser: 
-                    </p>
-                    <ul class="standard-text">
-                        <li>Made of high quality materials and weather resistant</li>
-                        <li>Violent proof, secured money safe</li>
-                        <li>A long live span and hardly any maintenance</li>
-                        <li>Price flexibility, insert money display</li>
-                        <li>Registration system</li>
-                        <li>Rechargeable battery</li>
-                        <li>Minimum use of energy</li>
-                        <li>Candle including lighter</li>
-                        <li>Return of the used candle-holder for recycling</li>
-                        <li>Extra flow of funds</li>
-                    </ul>
+        <div class="jumbotron" style="background:#F8F8F8; margin-bottom: 0">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-10 col-md-offset-1">
+                        <h1 style="padding-top: 40px;">Memory Light Candle Dispenser</h1>
+                        <p class="standard-text" style="padding-bottom: 30px;padding-top: 10px;">
+                            The Memory Light Candle dispenser is a prefect concept of professional
+                            cemetery service. Visitors can light a candle to remember their loved
+                            ones. A highly appreciated asset at more than 700 cemeteries in Europe.
+                        </p>
+                        <ul class="col-md-6 list-group standard-text">
+                            <li class="list-group-item">Made of high quality materials and weather resistant</li>
+                            <li class="list-group-item">Ten year proven technology</li>
+                            <li class="list-group-item">Violent proof, secured money safe</li>
+                            <li class="list-group-item">A long live span and hardly any maintenance</li>
+                            <li class="list-group-item">Price flexibility, insert money display</li>
+                            <li class="list-group-item">Registration system</li>
+                        </ul>
+                        <ul class="col-md-6 list-group standard-text">
+                            <li class="list-group-item">Rechargeable battery</li>
+                            <li class="list-group-item">Minimum use of energy</li>
+                            <li class="list-group-item">Candles are suitable for outdoor burning</li>
+                            <li class="list-group-item">Candle including lighter</li>
+                            <li class="list-group-item">Return of the used candle-holder for recycling</li>
+                            <li class="list-group-item">Extra flow of funds</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="jumbotron" style="margin-top: 0px; background:#FFF; margin-bottom: 0">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12" style="padding-bottom: 30px;">
+                        <h1 class="standard-h1">Specifications</h1>
+                        <hr>
+                    </div>
+                    <div class="col-md-6" style="padding: 0 40px 0 40px;">
+                        <p class="standard-h1">1</p>
+                        <hr>
+                        <div class="row">
+                            <div class="col-md-6">
+                                <h3 class="spec-label">
+                                    Height
+                                </h3>
+                            </div>
+                            <div class="col-md-5">
+                                <p class="spec-text">
+                                    1780 mm
+                                </p>
+                            </div>
+                        </div>
+                        
+                        <hr>
+                        <div class="row">
+                            <div class="col-md-6">
+                                <h3 class="spec-label">
+                                    Depth
+                                </h3>
+                            </div>
+                            <div class="col-md-5">
+                                <p class="spec-text">
+                                    700 mm
+                                </p>
+                            </div>
+                        </div>
+                        
+                        <hr>
+                        <div class="row">
+                            <div class="col-md-6">
+                                <h3 class="spec-label">
+                                    Width
+                                </h3>
+                            </div>
+                            <div class="col-md-5">
+                                <p class="spec-text">
+                                    700 mm
+                                </p>
+                            </div>
+                        </div>
+                        
+                        <hr>
+                        <div class="row">
+                            <div class="col-md-6">
+                                <h3 class="spec-label">
+                                    Amount candles
+                                </h3>
+                            </div>
+                            <div class="col-md-5">
+                                <p class="spec-text">
+                                    180
+                                </p>
+                            </div>
+                        </div>
+                        
+                        <hr>
+                        <div class="row">
+                            <div class="col-md-6">
+                                <h3 class="spec-label">
+                                    Gel cell battery
+                                </h3>
+                            </div>
+                            <div class="col-md-5">
+                                <p class="spec-text">
+                                    X hours (rechargeable)
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6" style="padding: 0 40px 0 40px;">
+                        <p class="standard-h1">2</p>
+                        <hr>
+                        <div class="row">
+                            <div class="col-md-6">
+                                <h3 class="spec-label">
+                                    Height
+                                </h3>
+                            </div>
+                            <div class="col-md-5">
+                                <p class="spec-text">
+                                    1780 mm
+                                </p>
+                            </div>
+                        </div>
+                        
+                        <hr>
+                        <div class="row">
+                            <div class="col-md-6">
+                                <h3 class="spec-label">
+                                    Depth
+                                </h3>
+                            </div>
+                            <div class="col-md-5">
+                                <p class="spec-text">
+                                    700 mm
+                                </p>
+                            </div>
+                        </div>
+                        
+                        <hr>
+                        <div class="row">
+                            <div class="col-md-6">
+                                <h3 class="spec-label">
+                                    Width
+                                </h3>
+                            </div>
+                            <div class="col-md-5">
+                                <p class="spec-text">
+                                    700 mm
+                                </p>
+                            </div>
+                        </div>
+                        
+                        <hr>
+                        <div class="row">
+                            <div class="col-md-6">
+                                <h3 class="spec-label">
+                                    Amount candles
+                                </h3>
+                            </div>
+                            <div class="col-md-5">
+                                <p class="spec-text">
+                                    180
+                                </p>
+                            </div>
+                        </div>
+                        
+                        <hr>
+                        <div class="row">
+                            <div class="col-md-6">
+                                <h3 class="spec-label">
+                                    Gel cell battery
+                                </h3>
+                            </div>
+                            <div class="col-md-5">
+                                <p class="spec-text">
+                                    X hours (rechargeable)
+                                </p>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
@@ -85,10 +239,10 @@
                 <div class="row">
                     <div class="col-md-10 col-md-offset-1">
                         <h1 class="standard-h1">Join our Partner Program</h1>
-                        <p class="text-center">Suitable for entrepreneurs, owners of cemeteries and crematories. </p>
+                        <p class="text-center">Suitable for entrepreneurs, owners of cemeteries and crematory. </p>
                         <p class="text-center">Memory Light: A perfect concept of a reliable partner!</p>
                         <br>
-                        <p class="text-center"><a class="btn btn-success btn-lg text-capitalize" href="contact.php" role="button">join us now</a></p>
+                        <button class="btn btn-success btn-lg center-block text-capitalize">Join us now</button>
                     </div>
                 </div>
             </div>
