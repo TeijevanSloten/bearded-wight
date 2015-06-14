@@ -98,3 +98,16 @@ body {
     margin-top: 35px;
     margin-bottom: 15px;
 }
+
+.spec-label {
+    font-size: 28px;
+    font-weight: 200;
+    margin-top: 10px;
+    padding-right: 50px;
+    text-align: right
+}
+
+.spec-text{
+    margin-top:10px;
+    padding-left: 50px;
+}

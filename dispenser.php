@@ -85,7 +85,7 @@
                 <div class="row">
                     <div class="col-md-10 col-md-offset-1">
                         <h1 class="standard-h1">Join our Partner Program</h1>
-                        <p class="text-center">Suitable for entrepreneurs, owners of cemeteries and crematory. </p>
+                        <p class="text-center">Suitable for entrepreneurs, owners of cemeteries and crematories. </p>
                         <p class="text-center">Memory Light: A perfect concept of a reliable partner!</p>
                         <br>
                         <p class="text-center"><a class="btn btn-success btn-lg text-capitalize" href="contact.php" role="button">join us now</a></p>
