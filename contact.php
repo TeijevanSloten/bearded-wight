@@ -30,13 +30,23 @@
                             </p>
                         </div>
                     </div>
-                    <div class="col-md-8" style="margin-top: 54px;">
-                        <ul class="nav nav-tabs pull-right">
-                            <li role="presentation"><a href="index.php">Home</a></li>
-                            <li role="presentation"><a href="relic.php">Memory Light Relic</a></li>
-                            <li role="presentation"><a href="dispenser.php">Memory Candle Dispenser</a></li>
-                            <li role="presentation" class="active"><a href="contact.php">Partner Program</a></li>
-                        </ul>
+                    <div class="col-md-8" style="margin-top: 14px;">
+                        <div style="text-align: right;">
+                            <ul class="list-unstyled">
+                                <li class="flag-item"><a href="language.php"><img src="img/flags/en.png" /></a></li>
+                                <li class="flag-item"><a href="language.php"><img src="img/flags/fr.png" /></a></li>
+                                <li class="flag-item"><a href="language.php"><img src="img/flags/es.png" /></a></li>
+                                <li class="flag-item"><a href="language.php"><img src="img/flags/nl.png" /></a></li>
+                            </ul>
+                        </div>
+                        <div style="margin-top: 20px;">
+                            <ul class="nav nav-tabs pull-right">
+                                <li role="presentation"><a href="index.php">Home</a></li>
+                                <li role="presentation"><a href="relic.php">Memory Light Relic</a></li>
+                                <li role="presentation"><a href="dispenser.php">Memory Candle Dispenser</a></li>
+                                <li role="presentation" class="active"><a href="contact.php">Partner Program</a></li>
+                            </ul>
+                        </div>
                     </div>
                 </div>
             </div>

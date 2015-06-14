@@ -32,10 +32,10 @@
                     <div class="col-md-8" style="margin-top: 14px;">
                         <div style="text-align: right;">
                             <ul class="list-unstyled">
-                                <li class="flag-item"><a href="language.php"><img src="img/flags/en.png" /></a></li>
-                                <li class="flag-item"><a href="language.php"><img src="img/flags/fr.png" /></a></li>
-                                <li class="flag-item"><a href="language.php"><img src="img/flags/es.png" /></a></li>
-                                <li class="flag-item"><a href="language.php"><img src="img/flags/nl.png" /></a></li>
+                                <li class="flag-item"><a href="#"><img src="img/flags/en.png" /></a></li>
+                                <li class="flag-item"><a href="#"><img src="img/flags/fr.png" /></a></li>
+                                <li class="flag-item"><a href="#"><img src="img/flags/es.png" /></a></li>
+                                <li class="flag-item"><a href="#"><img src="img/flags/nl.png" /></a></li>
                             </ul>
                         </div>
                         <div style="margin-top: 20px;">
@@ -50,48 +50,11 @@
                 </div>
             </div>
         </div>
-        <div class="jumbotron" style="margin-top: 0px; background:#F8F8F8; margin-bottom: 0">
-            <div class="container">
-                <div class="col-md-offset-1 col-md-6">
-                    <h1 style="font-weight: 200; margin-top: 150px; font-family: 'ImperatorSmallCaps'; font-size: 55px;">Memory Light</h1>
-                    <div id="owl-quotes" class="owl-carousel">
-                        <div><h3 style="font-weight: 200;"><i>“Memory Light Relic helpt je met het verwerken van de pijn van het verlies van een dierbare.”</i> - Frits</h3></div>
-                        <div><h3 style="font-weight: 200;"><i>“Voor onze begraafplaats een perfecte aanvulling op ons servicepakket.”</i> - Martin</h3></div>
-                        <div><h3 style="font-weight: 200;"><i>“Zur Andenken von meine verstorbene Mutter hab ich ein wenig Asche in den Memory Light Relic: Licht ins Dunkel meine trauer.”</i> - Natasha</h3></div>
-                    </div>
-                </div>
-                <div>
-                    <img src="img/photo1330.png" style='margin-top: 95px;position: relative; right: -100px; height: 300px;'>
-                </div>
-            </div>
-        </div>
-
-        <div class="jumbotron" style="margin-top: 50px; background:#FFFFFD; margin-bottom: 0">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-6">
-                        <h2 style="margin-left: 20px;">Memory Light Relic</h2>
-                        <p>Our bereavement Memory Light is unique. For those who want to express their heart felt sympathy with an everlasting gift of light. To comfort people in time of emotional pain.</p>
-                        <p><a class="btn btn-default" href="#" role="button">View details »</a></p>
-                    </div>
-                    <div class="col-md-6">
-                        <h2 style="margin-left: 20px;">Memory Light Candle Dispenser</h2>
-                        <p>The Memory Light Candle dispenser is a robust and well proven concept of professional cemetery service. The dispenser – candle including lighter - is a highly appreciated asset at more than 700 cemeteries in Europe.</p>
-                        <p><a class="btn btn-default" href="#" role="button">View details »</a></p>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <div class="jumbotron" style="margin-top: 50px; background:#F8F8F8; margin-bottom: 0">
+        <div class="jumbotron" style="margin-top: 50px; background:#FFFFFF; margin-bottom: 0">
             <div class="container">
                 <div class="row">
                     <div class="col-md-10 col-md-offset-1">
-                        <h1 class="standard-h1">Join our Partner Program</h1>
-                        <p class="text-center">Suitable for entrepreneurs, owners of cemeteries and crematory. </p>
-                        <p class="text-center">Memory Light: A perfect concept of a reliable partner!</p>
-                        <br>
-                        <button class="btn btn-success btn-lg center-block text-capitalize">Join us now</button>
+                        <h1 class="standard-h1">Feature not yet implemented</h1>
                     </div>
                 </div>
             </div>

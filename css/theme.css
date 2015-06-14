@@ -73,3 +73,8 @@ body {
     font-size: 55px;
     text-align: center;
 }
+
+.flag-item {
+    display: inline;
+    margin-right: 10px;
+}
