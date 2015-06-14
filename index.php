@@ -61,7 +61,7 @@
                     </div>
                 </div>
                 <div>
-                    <img src="img/photo1330.png" style='margin-top: 95px;position: relative; right: -100px; height: 300px;'>
+                    <img src="img/photo1330.png" style='margin-top: 95px;position: relative; right: -50px; height: 300px;'>
                 </div>
             </div>
         </div>
