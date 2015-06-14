@@ -6,6 +6,16 @@
 .contactjumbotron {
     height: 125px;
     padding: 25px 0 0 8px !important;
+    background-color: #F5F5F5;
+    margin-bottom: 20px;
+}
+
+.contactjumbotron:hover {
+    background-color: #E5E5E5;
+}
+
+.contactjumbotron p a {
+    text-decoration: none;
 }
 
 .contactfont {

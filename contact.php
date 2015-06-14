@@ -63,8 +63,7 @@
                 Memory Light shares her knowledge and offers you extra earnings.
             </p>
             <p class="standard-text">Respond by the attached form and we will contact you personally.</p>
-            <hr>
-            <div class="row">
+            <div class="row" style="margin-top: 50px;">
                 <div class="col-md-6">
                     <div class="row">
                         <div class="col-md-5 jumbotron text-center contactjumbotron">
@@ -74,7 +73,7 @@
                                 <a href="#">&nbsp;info@memorylight.eu</a>
                             </p>
                         </div>
-                        <div class="col-md-5 col-md-offset-1 jumbotron text-center contactjumbotron">
+                        <div class="col-md-5 jumbotron text-center contactjumbotron" style="margin-left: 20px;">
                             <h3 class="contacttitle">Telephone:</h3>
                             <p>
                                 <span class="glyphicon glyphicon-phone-alt" aria-hidden="true"></span>
@@ -88,7 +87,7 @@
                                 <a href="#">&nbsp;memorylight.eu</a>
                             </p>
                         </div>
-                        <div class="col-md-5 jumbotron col-md-offset-1 text-center contactjumbotron">
+                        <div class="col-md-5 jumbotron text-center contactjumbotron" style="margin-left: 20px;">
                             <h3 class="contacttitle">Address</h3>
                             <p>
                                 <span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span>

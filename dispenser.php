@@ -55,8 +55,8 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-10 col-md-offset-1">
-                        <h1 style="padding-top: 40px;">Memory Light Candle Dispenser</h1>
-                        <p class="standard-text" style="padding-bottom: 30px;padding-top: 10px;">
+                        <h1 class="centered-title">Memory Light Candle Dispenser</h1>
+                        <p class="standard-text" style="padding-bottom: 30px; padding-top: 10px;">
                             The Memory Light Candle dispenser is a prefect concept of professional
                             cemetery service. Visitors can light a candle to remember their loved
                             ones. A highly appreciated asset at more than 700 cemeteries in Europe.
@@ -89,7 +89,7 @@
                         <hr>
                     </div>
                     <div class="col-md-6" style="padding: 0 40px 0 40px;">
-                        <p class="standard-h1">1</p>
+                        <h3 class="spec-label" style="text-align: center">Small</h3>
                         <hr>
                         <div class="row">
                             <div class="col-md-6">
@@ -113,7 +113,7 @@
                             </div>
                             <div class="col-md-5">
                                 <p class="spec-text">
-                                    700 mm
+                                    350 mm
                                 </p>
                             </div>
                         </div>
@@ -127,7 +127,7 @@
                             </div>
                             <div class="col-md-5">
                                 <p class="spec-text">
-                                    700 mm
+                                    420 mm
                                 </p>
                             </div>
                         </div>
@@ -141,7 +141,7 @@
                             </div>
                             <div class="col-md-5">
                                 <p class="spec-text">
-                                    180
+                                    80 - 120
                                 </p>
                             </div>
                         </div>
@@ -161,7 +161,7 @@
                         </div>
                     </div>
                     <div class="col-md-6" style="padding: 0 40px 0 40px;">
-                        <p class="standard-h1">2</p>
+                        <h3 class="spec-label" style="text-align: center">Large</h3>
                         <hr>
                         <div class="row">
                             <div class="col-md-6">
