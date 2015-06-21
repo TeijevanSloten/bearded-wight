@@ -73,79 +73,20 @@
         </div>
         <div class="jumbotron" style="margin-top: 0px; background:#FFF; margin-bottom: 0">
             <div class="container">
-                <div class="row">
-                    <div class="col-md-10 col-md-offset-1">
-                        <h1 class="standard-h1" style="margin-top: 0px;">Specifications</h1>
-                        <hr>
-                        <div class="row">
-                            <div class="col-md-6">
-                                <h3 class="spec-label">
-                                    Height
-                                </h3>
-                            </div>
-                            <div class="col-md-5">
-                                <p class="spec-text">
-                                    135 mm
-                                </p>
-                            </div>
-                        </div>
-                        
-                        <hr>
-                        <div class="row">
-                            <div class="col-md-6">
-                                <h3 class="spec-label">
-                                    Diameter (outer)
-                                </h3>
-                            </div>
-                            <div class="col-md-5">
-                                <p class="spec-text">
-                                    69 mm
-                                </p>
-                            </div>
-                        </div>
-                        
-                        <hr>
-                        <div class="row">
-                            <div class="col-md-6">
-                                <h3 class="spec-label">
-                                    Diameter (inner)
-                                </h3>
-                            </div>
-                            <div class="col-md-5">
-                                <p class="spec-text">
-                                    62 mm
-                                </p>
-                            </div>
-                        </div>
-                        
-                        <hr>
-                        <div class="row">
-                            <div class="col-md-6">
-                                <h3 class="spec-label">
-                                    Compartment
-                                </h3>
-                            </div>
-                            <div class="col-md-5">
-                                <p class="spec-text">
-                                    55 cc
-                                </p>
-                            </div>
-                        </div>
-                        
-                        <hr>
-                        <div class="row">
-                            <div class="col-md-6">
-                                <h3 class="spec-label">
-                                    Max candle height
-                                </h3>
-                            </div>
-                            <div class="col-md-5">
-                                <p class="spec-text">
-                                    95 mm, diameter 55 mm
-                                </p>
-                            </div>
-                        </div>
+                <div class="col-md-offset-1 col-md-5">
+                    <h1 class="standard-h2" style="margin-top: 0px; font-size: 45px;">Specifications</h1>
+                    <div class="col-md-offset-1 col-md-10">
+                        <ul style="font-size: 21px; margin-top: 20px;">
+                            <li style="padding-bottom: 5px;">Height 135 mm</li>
+                            <li style="padding-bottom: 5px;">Diameter (outer) 69 mm</li>
+                            <li style="padding-bottom: 5px;">Diameter (inner) 62 mm</li>
+                            <li style="padding-bottom: 5px;">Compartment 55 cc</li>
+                            <li style="padding-bottom: 5px;">Max candle height 95 mm, diameter 55 mm</li>
+                        </ul>
                     </div>
+                </div>
+                <div class="col-md-5">
+                    <img class="col-md-12" src="img/photo1330v1.png" />
                 </div>
             </div>
         </div>
