@@ -67,7 +67,12 @@
                     </ul>
                 </div>
                 <div class="col-md-4">
-                    <img src="img/memorylightrelic.png" style='margin-top: 95px; height: 300px;'>
+                        <div id="owl-images" class="col-md-12 owl-carousel" style="margin-top:150px;">
+                            <div class="item"><img src="img/memorylightrelic.png" alt=""></div>
+                            <div class="item"><img src="img/BRANDENDE KAARS3.jpg" alt=""></div>
+                            <div class="item"><img src="img/BRANDENDE KAARS1.jpg" alt=""></div>
+                            <div class="item"><img src="img/BRANDENDE KAARS.jpg" alt=""></div>
+                        </div>
                 </div>
             </div>
         </div>
@@ -138,5 +143,7 @@
         </footer>
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
         <script src="js/vendor/bootstrap/bootstrap.min.js"></script>
+        <script src="js/vendor/owl-caroursel/owl.carousel.js"></script>
+        <script src="js/vendor/slidersettingsimg.js"></script>
     </body>
 </html>

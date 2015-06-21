@@ -86,7 +86,16 @@
                         </ul>-->
                     </div>
                     <div class="col-md-offset-1 col-md-3">
-                        <img src="img/dispenser.png" style='margin-top: 95px; height: 400px;' />
+                        <div id="owl-images" class="col-md-12 owl-carousel" style="margin-top:150px;">
+                            <div class="item"><img src="img/dispenser.png" alt=""></div>
+                            <div class="item"><img src="img/GROTE AUTOMAAT.jpg" alt=""></div>
+                            <div class="item"><img src="img/GROTE AUTOMAAT1.jpg" alt=""></div>
+                            <div class="item"><img src="img/KLEIEN AUTOMATEN.jpg" alt=""></div>
+                            <div class="item"><img src="img/P5210115.jpg" alt=""></div>
+                            <div class="item"><img src="img/P5210124.jpg" alt=""></div>
+                            <div class="item"><img src="img/P5210112.jpg" alt=""></div>
+                            <div class="item"><img src="img/P5210127.jpg" alt=""></div>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -172,5 +181,7 @@
         </footer>
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
         <script src="js/vendor/bootstrap/bootstrap.min.js"></script>
+        <script src="js/vendor/owl-caroursel/owl.carousel.js"></script>
+        <script src="js/vendor/slidersettingsimg.js"></script>
     </body>
 </html>
