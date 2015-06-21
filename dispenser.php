@@ -20,17 +20,17 @@
         <div class="title-heading">
             <div class="container">
                 <div class="row">
-                    <div class="col-md-4">
+                    <div class="col-md-5">
                         <div class="header clearfix">
                             <h1 class="logo">
                                 Memory Light
                             </h1>
-                            <p class="text-capitalize logo-statement">
+                            <p class="logo-statement">
                                 Professionals in support bereavement care
                             </p>
                         </div>
                     </div>
-                    <div class="col-md-8" style="margin-top: 14px;">
+                    <div class="col-md-7" style="margin-top: 14px;">
                         <div style="text-align: right;">
                             <ul class="list-unstyled">
                                 <li class="flag-item"><a href="language.php"><img src="img/flags/en.png" /></a></li>
@@ -185,7 +185,7 @@
                             </div>
                             <div class="col-md-5">
                                 <p class="spec-text">
-                                    700 mm
+                                    350 mm
                                 </p>
                             </div>
                         </div>
@@ -199,7 +199,7 @@
                             </div>
                             <div class="col-md-5">
                                 <p class="spec-text">
-                                    700 mm
+                                    420 mm
                                 </p>
                             </div>
                         </div>
@@ -213,7 +213,7 @@
                             </div>
                             <div class="col-md-5">
                                 <p class="spec-text">
-                                    180
+                                    80 / 120
                                 </p>
                             </div>
                         </div>
