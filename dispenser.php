@@ -54,14 +54,21 @@
         <div class="jumbotron" style="background:#F8F8F8; margin-bottom: 0">
             <div class="container">
                 <div class="row">
-                    <div class="col-md-10 col-md-offset-1">
+                    <div class="col-md-offset-1 col-md-7">
                         <h1 class="centered-title">Memory Light Candle Dispenser</h1>
-                        <p class="standard-text" style="padding-bottom: 30px; padding-top: 10px;">
+                        <p class="standard-text" style="padding-top: 10px;">
                             The Memory Light Candle dispenser is a prefect concept of professional
                             cemetery service. Visitors can light a candle to remember their loved
                             ones. A highly appreciated asset at more than 700 cemeteries in Europe.
                         </p>
-                        <ul class="col-md-6 list-group standard-text">
+                        <ul class="jumbotron-ul">
+                            <li>Made of high quality materials and weather resistant</li>
+                            <li>A long live span and hardly any maintenance</li>
+                            <li>Violent proof, secured money safe</li>
+                            <li>Compartment for holding ashes</li>
+                            <li>Rechargeable battery</li>
+                        </ul>
+<!--                        <ul class="col-md-6 list-group standard-text">
                             <li class="list-group-item">Made of high quality materials and weather resistant</li>
                             <li class="list-group-item">Ten year proven technology</li>
                             <li class="list-group-item">Violent proof, secured money safe</li>
@@ -76,7 +83,10 @@
                             <li class="list-group-item">Candle including lighter</li>
                             <li class="list-group-item">Return of the used candle-holder for recycling</li>
                             <li class="list-group-item">Extra flow of funds</li>
-                        </ul>
+                        </ul>-->
+                    </div>
+                    <div class="col-md-offset-1 col-md-3">
+                        <img src="img/dispenser.png" style='margin-top: 95px; height: 400px;' />
                     </div>
                 </div>
             </div>
@@ -103,7 +113,7 @@
                                 </p>
                             </div>
                         </div>
-                        
+
                         <hr>
                         <div class="row">
                             <div class="col-md-6">
@@ -117,7 +127,7 @@
                                 </p>
                             </div>
                         </div>
-                        
+
                         <hr>
                         <div class="row">
                             <div class="col-md-6">
@@ -131,7 +141,7 @@
                                 </p>
                             </div>
                         </div>
-                        
+
                         <hr>
                         <div class="row">
                             <div class="col-md-6">
@@ -145,7 +155,7 @@
                                 </p>
                             </div>
                         </div>
-                        
+
                         <hr>
                         <div class="row">
                             <div class="col-md-6">
@@ -175,7 +185,7 @@
                                 </p>
                             </div>
                         </div>
-                        
+
                         <hr>
                         <div class="row">
                             <div class="col-md-6">
@@ -189,7 +199,7 @@
                                 </p>
                             </div>
                         </div>
-                        
+
                         <hr>
                         <div class="row">
                             <div class="col-md-6">
@@ -203,7 +213,7 @@
                                 </p>
                             </div>
                         </div>
-                        
+
                         <hr>
                         <div class="row">
                             <div class="col-md-6">
@@ -217,7 +227,7 @@
                                 </p>
                             </div>
                         </div>
-                        
+
                         <hr>
                         <div class="row">
                             <div class="col-md-6">
@@ -249,27 +259,34 @@
             </div>
         </div>
 
-      <footer class="footer">
+        <footer class="footer">
             <div class="container">
-                <div class="col-md-6 col-md-offset-1">
-                    <h4 class="footer-title">About</h4>
-                    <p style="color: white;">
-                        Losing a loved one is incredibly difficult.
-                        Sometimes words aren't enough to help.
-                        That's why Memory Light Netherlands developed unique products to support bereavement care.
-                    </p>
+                <div class="row">
+                    <div class="col-md-6 col-md-offset-1">
+                        <h4 class="footer-title">About</h4>
+                        <p>
+                            Losing a loved one is incredibly difficult.
+                            Sometimes words aren't enough to help.<br>
+                            That's why Memory Light Netherlands developed unique products to support bereavement care.
+                        </p>
+                    </div>
+                    <div class="col-md-3 col-md-offset-1">
+                        <h4 class="footer-title ">Get in touch!</h4>
+                        <a href="mailto:info@memorylight.eu" class="footer-link">
+                            <div class="footer-icon"><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span></div>
+                        </a>
+                        <a href="#" class="footer-link">
+                            <div class="footer-icon"><span class="glyphicon glyphicon-phone" aria-hidden="true"></span></div>
+                        </a>
+                        <a href="contact.php" class="footer-link">
+                            <div class="footer-icon"><span class="glyphicon glyphicon-comment" aria-hidden="true"></span></div>
+                        </a>
+                    </div>
                 </div>
-                <div class="col-md-3 col-md-offset-1">
-                    <h4 class="footer-title ">Get in touch!</h4>
-                    <a href="mailto:info@memorylight.eu" style="text-decoration: none;">
-                        <div class="footer-icon"><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span></div>
-                    </a>
-                    <a href="#" style="text-decoration: none;">
-                        <div class="footer-icon"><span class="glyphicon glyphicon-phone" aria-hidden="true"></span></div>
-                    </a>
-                    <a href="contact.php"style="text-decoration: none;">
-                        <div class="footer-icon"><span class="glyphicon glyphicon-comment" aria-hidden="true"></span></div>
-                    </a>
+                <div class="row">
+                    <div class="col-md-12">
+                        <p class="text-center"><a href="privacy.php" class="footer-link">privacy policy</a> - made by mdtvs</p>
+                    </div>
                 </div>
             </div>
         </footer>
