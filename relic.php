@@ -58,7 +58,7 @@
                     <p class="standard-text">
                         Our bereavement Memory Light Relic helps those who want to express their heart felt sympathy with an everlasting gift of light.<br>To comfort people in time of emotional pain.
                     </p>
-                    <ul style="margin-top: 40px; margin-left: 30px; font-size: 20px;">
+                    <ul class="jumbotron-ul">
                         <li>Can be personalized</li>
                         <li>Made of high quality and durable materials</li>
                         <li>Compartment for holding ashes</li>

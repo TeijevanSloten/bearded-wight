@@ -126,3 +126,8 @@ body {
     font-family: 'ImperatorSmallCaps';
     font-size: 55px !important;
 }
+
+.jumbotron-ul{
+    margin-left: 30px;
+    font-size: 20px;
+}
