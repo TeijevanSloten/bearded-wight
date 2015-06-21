@@ -97,35 +97,39 @@
                     </div>
                 </div>
                 <div class="col-md-6">
-                    <form class="form-horizontal">
+                    <form class="form-horizontal" method="post">
+                        <div class="alert alert-success alert-dismissible col-md-12" role="alert" style="position: absolute; top: -70px; display: none;">
+                            <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                            <strong>Message received!</strong> We will be contacting you as soon as possible!
+                        </div>
                         <div class="form-group">
                             <label for="name" class="col-sm-2 control-label">Name</label>
                             <div class="col-sm-10">
-                                <input type="text" class="form-control" id="name">
+                                <input type="text" class="form-control" id="name" name="name">
                             </div>
                         </div>
                         <div class="form-group">
                             <label for="company" class="col-sm-2 control-label">Company</label>
                             <div class="col-sm-10">
-                                <input type="text" class="form-control" id="company">
+                                <input type="text" class="form-control" id="company" name="company">
                             </div>
                         </div>
                         <div class="form-group">
                             <label for="telephone" class="col-sm-2 control-label">Telephone</label>
                             <div class="col-sm-10">
-                                <input type="phone" class="form-control" id="telephone">
+                                <input type="phone" class="form-control" id="telephone" name="telephone">
                             </div>
                         </div>
                         <div class="form-group">
                             <label for="email" class="col-sm-2 control-label">Email</label>
                             <div class="col-sm-10">
-                                <input type="email" class="form-control" id="email">
+                                <input type="email" class="form-control" id="email" name="email">
                             </div>
                         </div>
                         <div class="form-group">
                             <label for="message" class="col-sm-2 control-label">Message</label>
                             <div class="col-sm-10">
-                                <textarea class="form-control" id="message" style="height: 150px;" required="true"></textarea>
+                                <textarea class="form-control" id="message" style="height: 150px;" required="true" name="message"></textarea>
                             </div>
                         </div>
                         <div class="form-group">
@@ -171,5 +175,6 @@
         </footer>
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
         <script src="js/vendor/bootstrap/bootstrap.min.js"></script>
+        <script src="js/submitForm.js"></script>
     </body>
 </html>
