@@ -93,155 +93,35 @@
         </div>
         <div class="jumbotron" style="margin-top: 0px; background:#FFF; margin-bottom: 0">
             <div class="container">
-                <div class="row">
-                    <div class="col-md-12" style="padding-bottom: 30px;">
-                        <h1 class="standard-h1">Specifications</h1>
-                        <hr>
+                <div class="col-md-offset-1 col-md-5">
+                    <h1 class="standard-h2" style="margin-top: 0px; font-size: 45px;">Specifications</h1>
+                    <div class="col-md-offset-1 col-md-10">
+                        <ul style="font-size: 21px; margin-top: 20px;">
+                            <li style="padding-bottom: 5px;">Height 1780 mm</li>
+                            <li style="padding-bottom: 5px;">Depth 350 mm</li>
+                            <li style="padding-bottom: 5px;">Width 420 mm</li>
+                            <li style="padding-bottom: 5px;">Amount candles 80 - 120</li>
+                            <li style="padding-bottom: 5px;">Gel cell battery X hours (rechargeable)</li>
+                        </ul>
                     </div>
-                    <div class="col-md-6" style="padding: 0 40px 0 40px;">
-                        <h3 class="spec-label" style="text-align: center">Type 1</h3>
-                        <hr>
-                        <div class="row">
-                            <div class="col-md-6">
-                                <h3 class="spec-label">
-                                    Height
-                                </h3>
-                            </div>
-                            <div class="col-md-5">
-                                <p class="spec-text">
-                                    1780 mm
-                                </p>
-                            </div>
-                        </div>
-
-                        <hr>
-                        <div class="row">
-                            <div class="col-md-6">
-                                <h3 class="spec-label">
-                                    Depth
-                                </h3>
-                            </div>
-                            <div class="col-md-5">
-                                <p class="spec-text">
-                                    350 mm
-                                </p>
-                            </div>
-                        </div>
-
-                        <hr>
-                        <div class="row">
-                            <div class="col-md-6">
-                                <h3 class="spec-label">
-                                    Width
-                                </h3>
-                            </div>
-                            <div class="col-md-5">
-                                <p class="spec-text">
-                                    420 mm
-                                </p>
-                            </div>
-                        </div>
-
-                        <hr>
-                        <div class="row">
-                            <div class="col-md-6">
-                                <h3 class="spec-label">
-                                    Amount candles
-                                </h3>
-                            </div>
-                            <div class="col-md-5">
-                                <p class="spec-text">
-                                    80 - 120
-                                </p>
-                            </div>
-                        </div>
-
-                        <hr>
-                        <div class="row">
-                            <div class="col-md-6">
-                                <h3 class="spec-label">
-                                    Gel cell battery
-                                </h3>
-                            </div>
-                            <div class="col-md-5">
-                                <p class="spec-text">
-                                    X hours (rechargeable)
-                                </p>
-                            </div>
-                        </div>
+                </div>
+                <div class="col-md-5">
+                    <img class="col-md-12" src="img/P5210109.jpg">
+                </div>
+                <hr class="col-md-12">
+                <div class="col-md-offset-1 col-md-5">
+                    <div class="col-md-offset-1 col-md-10">
+                        <ul style="font-size: 21px; margin-top: 20px;">
+                            <li style="padding-bottom: 5px;">Height 1780 mm</li>
+                            <li style="padding-bottom: 5px;">Depth 700 mm</li>
+                            <li style="padding-bottom: 5px;">Width 700 mm</li>
+                            <li style="padding-bottom: 5px;">Amount candles 180</li>
+                            <li style="padding-bottom: 5px;">Gel cell battery X hours (rechargeable)</li>
+                        </ul>
                     </div>
-                    <div class="col-md-6" style="padding: 0 40px 0 40px;">
-                        <h3 class="spec-label" style="text-align: center">Type 2</h3>
-                        <hr>
-                        <div class="row">
-                            <div class="col-md-6">
-                                <h3 class="spec-label">
-                                    Height
-                                </h3>
-                            </div>
-                            <div class="col-md-5">
-                                <p class="spec-text">
-                                    1780 mm
-                                </p>
-                            </div>
-                        </div>
-
-                        <hr>
-                        <div class="row">
-                            <div class="col-md-6">
-                                <h3 class="spec-label">
-                                    Depth
-                                </h3>
-                            </div>
-                            <div class="col-md-5">
-                                <p class="spec-text">
-                                    350 mm
-                                </p>
-                            </div>
-                        </div>
-
-                        <hr>
-                        <div class="row">
-                            <div class="col-md-6">
-                                <h3 class="spec-label">
-                                    Width
-                                </h3>
-                            </div>
-                            <div class="col-md-5">
-                                <p class="spec-text">
-                                    420 mm
-                                </p>
-                            </div>
-                        </div>
-
-                        <hr>
-                        <div class="row">
-                            <div class="col-md-6">
-                                <h3 class="spec-label">
-                                    Amount candles
-                                </h3>
-                            </div>
-                            <div class="col-md-5">
-                                <p class="spec-text">
-                                    80 / 120
-                                </p>
-                            </div>
-                        </div>
-
-                        <hr>
-                        <div class="row">
-                            <div class="col-md-6">
-                                <h3 class="spec-label">
-                                    Gel cell battery
-                                </h3>
-                            </div>
-                            <div class="col-md-5">
-                                <p class="spec-text">
-                                    X hours (rechargeable)
-                                </p>
-                            </div>
-                        </div>
-                    </div>
+                </div>
+                <div class="col-md-5">
+                    <img class="col-md-12" src="img/P5210127.jpg">
                 </div>
             </div>
         </div>
