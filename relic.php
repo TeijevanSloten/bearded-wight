@@ -38,9 +38,8 @@
                 <div class="col-md-4">
                         <div id="owl-images" class="col-md-12 owl-carousel" style="margin-top:150px;">
                             <div class="item"><img src="img/memorylightrelic.png" alt=""></div>
-                            <div class="item"><img src="img/BRANDENDE KAARS3.jpg" alt=""></div>
-                            <!--<div class="item"><img src="img/BRANDENDE KAARS1.jpg" alt=""></div>-->
-                            <div class="item"><img src="img/BRANDENDE KAARS.jpg" alt=""></div>
+                            <div class="item"><img src="img/brandende kaars3.jpg" alt=""></div>
+                            <div class="item"><img src="img/brandende kaars.jpg" alt=""></div>
                         </div>
                 </div>
             </div>
@@ -60,7 +59,7 @@
                     </div>
                 </div>
                 <div class="col-md-5">
-                    <img class="col-md-12" src="img/photo1330v1.png" />
+                    <img class="col-md-12" src="img/memorylightrelic.png" />
                 </div>
             </div>
         </div>

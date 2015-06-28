@@ -37,33 +37,13 @@
                             <li>Compartment for holding ashes</li>
                             <li>Rechargeable battery</li>
                         </ul>
-<!--                        <ul class="col-md-6 list-group standard-text">
-                            <li class="list-group-item">Made of high quality materials and weather resistant</li>
-                            <li class="list-group-item">Ten year proven technology</li>
-                            <li class="list-group-item">Violent proof, secured money safe</li>
-                            <li class="list-group-item">A long live span and hardly any maintenance</li>
-                            <li class="list-group-item">Price flexibility, insert money display</li>
-                            <li class="list-group-item">Registration system</li>
-                        </ul>
-                        <ul class="col-md-6 list-group standard-text">
-                            <li class="list-group-item">Rechargeable battery</li>
-                            <li class="list-group-item">Minimum use of energy</li>
-                            <li class="list-group-item">Candles are suitable for outdoor burning</li>
-                            <li class="list-group-item">Candle including lighter</li>
-                            <li class="list-group-item">Return of the used candle-holder for recycling</li>
-                            <li class="list-group-item">Extra flow of funds</li>
-                        </ul>-->
                     </div>
                     <div class="col-md-offset-1 col-md-3">
                         <div id="owl-images" class="col-md-12 owl-carousel" style="margin-top:150px;">
                             <div class="item"><img src="img/dispenser.png" alt=""></div>
-                            <div class="item"><img src="img/GROTE AUTOMAAT.jpg" alt=""></div>
-                            <div class="item"><img src="img/GROTE AUTOMAAT1.jpg" alt=""></div>
-                            <div class="item"><img src="img/KLEIEN AUTOMATEN.jpg" alt=""></div>
-                            <div class="item"><img src="img/P5210115.jpg" alt=""></div>
-                            <div class="item"><img src="img/P5210124.jpg" alt=""></div>
-                            <div class="item"><img src="img/P5210112.jpg" alt=""></div>
-                            <div class="item"><img src="img/P5210127.jpg" alt=""></div>
+                            <div class="item"><img src="img/big dispenser.jpg" alt=""></div>
+                            <div class="item"><img src="img/big dispenser2.jpg" alt=""></div>
+                            <div class="item"><img src="img/small dispenser.jpg" alt=""></div>
                         </div>
                     </div>
                 </div>
@@ -84,7 +64,7 @@
                     </div>
                 </div>
                 <div class="col-md-5">
-                    <img class="col-md-12" src="img/P5210109.jpg">
+                    <img class="col-md-12" src="img/small dispenser2.jpg">
                 </div>
                 <hr class="col-md-12">
                 <div class="col-md-offset-1 col-md-5">
@@ -99,7 +79,7 @@
                     </div>
                 </div>
                 <div class="col-md-5">
-                    <img class="col-md-12" src="img/P5210127.jpg">
+                    <img class="col-md-12" src="img/big dispenser3.jpg">
                 </div>
             </div>
         </div>
