@@ -4,10 +4,10 @@
             <div class="col-md-5">
                 <div class="header clearfix">
                     <h1 class="logo">
-                        Memory Light
+                        <?= $this->lang->line('header.title');?>
                     </h1>
                     <p class="logo-statement">
-                        Professionals in support bereavement care
+                        <?= $this->lang->line('header.subtitle');?>
                     </p>
                 </div>
             </div>

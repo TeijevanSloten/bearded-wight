@@ -20,6 +20,8 @@ class DefaultPageController extends CI_Controller {
 	 */
 	public function index()
 	{
+		$this->load->helper('language');
+		$this->lang->load('en_lang');
 		$this->load->view('pages/index.php');
 	}
 }
