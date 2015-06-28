@@ -87,11 +87,11 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-10 col-md-offset-1">
-                        <h1 class="standard-h1">Join our Partner Program</h1>
-                        <p class="text-center">Suitable for entrepreneurs, owners of cemeteries and crematory. </p>
-                        <p class="text-center">Memory Light: A perfect concept of a reliable partner!</p>
+                        <h1 class="standard-h1"> <?= $this->lang->line('join.partner');?> </h1>
+                        <p class="text-center"> <?= $this->lang->line('join.partner.suitable');?> </p>
+                        <p class="text-center"> <?= $this->lang->line('join.partner.reliable');?> </p>
                         <br>
-                        <p class="text-center"><a class="btn btn-success btn-lg text-capitalize" href="contact" role="button">join us now</a></p>
+                        <p class="text-center"><a class="btn btn-success btn-lg text-capitalize" href="contact" role="button"> <?= $this->lang->line('join.partner.now');?> </a></p>
                     </div>
                 </div>
             </div>
