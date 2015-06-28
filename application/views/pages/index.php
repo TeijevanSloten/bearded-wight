@@ -46,12 +46,12 @@
                     <div class="col-md-6">
                         <h2 style="margin-left: 5px; font-family: 'ImperatorSmallCaps'; font-weight: bold"><?= $this->lang->line('main.relic.title');?></h2>
                         <p><?= $this->lang->line('main.relic.text');?></p>
-                        <p><a class="btn btn-default" href="relic.php" role="button"><?= $this->lang->line('view.details');?></a></p>
+                        <p><a class="btn btn-default" href="relic" role="button"><?= $this->lang->line('view.details');?></a></p>
                     </div>
                     <div class="col-md-6">
                         <h2 style="margin-left: 5px; font-family: 'ImperatorSmallCaps'; font-weight: bold;"><?= $this->lang->line('main.dispenser.title');?></h2>
                         <p><?= $this->lang->line('main.dispenser.text');?></p>
-                        <p><a class="btn btn-default" href="dispenser.php" role="button"><?= $this->lang->line('view.details');?></a></p>
+                        <p><a class="btn btn-default" href="dispenser" role="button"><?= $this->lang->line('view.details');?></a></p>
                     </div>
                 </div>
             </div>
@@ -65,7 +65,7 @@
                         <p class="text-center"> <?= $this->lang->line('join.partner.suitable');?> </p>
                         <p class="text-center"> <?= $this->lang->line('join.partner.reliable');?> </p>
                         <br>
-                        <p class="text-center"><a class="btn btn-success btn-lg text-capitalize" href="contact.php" role="button"> <?= $this->lang->line('join.partner.now');?> </a></p>
+                        <p class="text-center"><a class="btn btn-success btn-lg text-capitalize" href="contact" role="button"> <?= $this->lang->line('join.partner.now');?> </a></p>
                     </div>
                 </div>
             </div>

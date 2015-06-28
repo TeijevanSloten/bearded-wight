@@ -72,7 +72,7 @@
                         <p class="text-center">Suitable for entrepreneurs, owners of cemeteries and crematories. </p>
                         <p class="text-center">Memory Light: A perfect concept of a reliable partner!</p>
                         <br>
-                        <p class="text-center"><a class="btn btn-success btn-lg text-capitalize" href="contact.php" role="button">join us now</a></p>
+                        <p class="text-center"><a class="btn btn-success btn-lg text-capitalize" href="contact" role="button">join us now</a></p>
                     </div>
                 </div>
             </div>

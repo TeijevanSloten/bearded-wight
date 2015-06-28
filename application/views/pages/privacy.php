@@ -26,7 +26,7 @@
                     <div class="col-md-10 col-md-offset-1">
                         <h2>Privacy policy</h2>
 
-                        Deze Privacy Policy geldt voor alle bezoekers van de website <a href="index.php">http://www.memorylight.eu</a>
+                        Deze Privacy Policy geldt voor alle bezoekers van de website <a href="index">http://www.memorylight.eu</a>
 
                         <h4>1. Wet Bescherming Persoonsgegevens</h4>
 
