@@ -52,6 +52,11 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 $route['(:any)'] = 'DefaultPageController/resolveView/$1';
 
+$route['EN'] = 'DefaultPageController/switchLanguage/english';
+$route['FR'] = 'DefaultPageController/switchLanguage/french';
+$route['ES'] = 'DefaultPageController/switchLanguage/spanish';
+$route['NL'] = 'DefaultPageController/switchLanguage/dutch';
+
 $route['default_controller'] = 'DefaultPageController';
 $route['404_override'] = 'DefaultPageController/resolveView';
 $route['translate_uri_dashes'] = FALSE;

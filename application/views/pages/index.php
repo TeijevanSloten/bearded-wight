@@ -23,13 +23,9 @@
         <div class="jumbotron" style="margin-top: 0px; background:#F8F8F8; margin-bottom: 0">
             <div class="container">
                 <div class="col-md-offset-1 col-md-6">
-                    <h1 class="centered-title" style="margin-top: 100px;">Memory Light</h1>
+                    <h1 class="centered-title" style="margin-top: 100px;"><?= $this->lang->line('intro.title');?></h1>
                     <div>
-                        <p class="standard-text">
-                            Losing a loved one is incredibly difficult.
-                            Sometimes words aren't enough to help.
-                            That's why Memory Light Netherlands developed unique products to support bereavement care.
-                        </p>
+                        <p class="standard-text"><?= $this->lang->line('intro.text');?></p>
                     </div>
                     <div id="owl-quotes" class="owl-carousel">
                         <div><h3 style="font-weight: 200;"><i>“A valuable service. Visitors can buy a grave candle every day.”</i> - Martin</h3></div>
@@ -48,14 +44,14 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-6">
-                        <h2 style="margin-left: 5px; font-family: 'ImperatorSmallCaps'; font-weight: bold">Memory Light Relic</h2>
-                        <p>Our bereavement Memory Light is unique. For those who want to express their heart felt sympathy with an everlasting gift of light. To comfort people in time of emotional pain.</p>
-                        <p><a class="btn btn-default" href="relic" role="button">View details »</a></p>
+                        <h2 style="margin-left: 5px; font-family: 'ImperatorSmallCaps'; font-weight: bold"><?= $this->lang->line('main.relic.title');?></h2>
+                        <p><?= $this->lang->line('main.relic.text');?></p>
+                        <p><a class="btn btn-default" href="relic" role="button"><?= $this->lang->line('view.details');?></a></p>
                     </div>
                     <div class="col-md-6">
-                        <h2 style="margin-left: 5px; font-family: 'ImperatorSmallCaps'; font-weight: bold;">Memory Light Candle Dispenser</h2>
-                        <p>The Memory Light Candle dispenser is a robust and well proven concept of professional cemetery service. The dispenser – candle including lighter - is a highly appreciated asset at more than 700 cemeteries in Europe.</p>
-                        <p><a class="btn btn-default" href="dispenser" role="button">View details »</a></p>
+                        <h2 style="margin-left: 5px; font-family: 'ImperatorSmallCaps'; font-weight: bold;"><?= $this->lang->line('main.dispenser.title');?></h2>
+                        <p><?= $this->lang->line('main.dispenser.text');?></p>
+                        <p><a class="btn btn-default" href="dispenser" role="button"><?= $this->lang->line('view.details');?></a></p>
                     </div>
                 </div>
             </div>
@@ -65,11 +61,11 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-10 col-md-offset-1">
-                        <h1 class="standard-h1">Join our Partner Program</h1>
-                        <p class="text-center">Suitable for entrepreneurs, owners of cemeteries and crematories. </p>
-                        <p class="text-center">Memory Light: A perfect concept of a reliable partner!</p>
+                        <h1 class="standard-h1"> <?= $this->lang->line('join.partner');?> </h1>
+                        <p class="text-center"> <?= $this->lang->line('join.partner.suitable');?> </p>
+                        <p class="text-center"> <?= $this->lang->line('join.partner.reliable');?> </p>
                         <br>
-                        <p class="text-center"><a class="btn btn-success btn-lg text-capitalize" href="contact" role="button">join us now</a></p>
+                        <p class="text-center"><a class="btn btn-success btn-lg text-capitalize" href="contact" role="button"> <?= $this->lang->line('join.partner.now');?> </a></p>
                     </div>
                 </div>
             </div>
