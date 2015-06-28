@@ -15,7 +15,8 @@ class DefaultPageController extends CI_Controller {
 
     private function checkPageExistence($page) {
         if (!file_exists(APPPATH . '/views/pages/' . $page . '.php')) {
-            show_404();
+            $this->load->helper('url');
+            redirect();
         }
     }
 }
