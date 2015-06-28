@@ -22,7 +22,7 @@
                 </div>
                 <div style="margin-top: 20px;">
                     <ul class="nav nav-tabs pull-right">
-                        <li role="presentation"<?php echo ($page == "home" ? ' class="active"' : ''); ?>><a href="index">Home</a></li>
+                        <li role="presentation"<?php echo ($page == "home" ? ' class="active"' : ''); ?>><a href="home">Home</a></li>
                         <li role="presentation"<?php echo ($page == "relic" ? ' class="active"' : ''); ?>><a href="relic">Memory Light Relic</a></li>
                         <li role="presentation"<?php echo ($page == "dispenser" ? ' class="active"' : ''); ?>><a href="dispenser">Memory Candle Dispenser</a></li>
                         <li role="presentation"<?php echo ($page == "contact" ? ' class="active"' : ''); ?>><a href="contact">Partner Program</a></li>
