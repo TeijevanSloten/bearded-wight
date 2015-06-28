@@ -14,10 +14,10 @@
             <div class="col-md-7" style="margin-top: 14px;">
                 <div style="text-align: right;">
                     <ul class="list-unstyled">
-                        <li class="flag-item"><a href="language"><img src="img/flags/en.png" /></a></li>
-                        <li class="flag-item"><a href="language"><img src="img/flags/fr.png" /></a></li>
-                        <li class="flag-item"><a href="language"><img src="img/flags/es.png" /></a></li>
-                        <li class="flag-item"><a href="language"><img src="img/flags/nl.png" /></a></li>
+                        <li class="flag-item"><a href="EN"><img src="img/flags/en.png" /></a></li>
+                        <li class="flag-item"><a href="FR"><img src="img/flags/fr.png" /></a></li>
+                        <li class="flag-item"><a href="ES"><img src="img/flags/es.png" /></a></li>
+                        <li class="flag-item"><a href="NL"><img src="img/flags/nl.png" /></a></li>
                     </ul>
                 </div>
                 <div style="margin-top: 20px;">
