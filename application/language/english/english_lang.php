@@ -39,5 +39,7 @@
 	$lang['contact.form.recieved'] = "Message received!";
 	$lang['contact.form.contacted'] = "We will be contacting you as soon as possible!";
 
+	$lang['specs.label'] = "Specifications";
+	
 	$lang[''] = "";
 ?>

@@ -47,7 +47,7 @@
         <div class="jumbotron" style="margin-top: 0px; background:#FFF; margin-bottom: 0">
             <div class="container">
                 <div class="col-md-offset-1 col-md-5">
-                    <h1 class="standard-h2" style="margin-top: 0px; font-size: 45px;">Specifications</h1>
+                    <h1 class="standard-h2" style="margin-top: 0px; font-size: 45px;"><?= $this->lang->line('specs.label');?></h1>
                     <div class="col-md-offset-1 col-md-10">
                         <ul style="font-size: 21px; margin-top: 20px;">
                             <li style="padding-bottom: 5px;">Height 135 mm</li>
