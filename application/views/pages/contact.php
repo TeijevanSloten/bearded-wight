@@ -22,15 +22,10 @@
         <?php $page = "contact"; ?>
         <?php include 'components/header.php'; ?>
         <div class="container">
-            <h1 class="standard-h1">Partner Program</h1>
+            <h1 class="standard-h1"><?= $this->lang->line('contact.partner.title');?></h1>
             <br>
-            <p class="standard-text">
-                Join our partner program and start your own business.
-                You can offer a service which is highly appreciated at every cemetery and crematory.
-                We give full technical support and have an 'on site' information program.
-                Memory Light shares her knowledge and offers you extra earnings.
-            </p>
-            <p class="standard-text">Respond by the attached form and we will contact you personally.</p>
+            <p class="standard-text"><?= $this->lang->line('contact.partner.text');?></p>
+            <p class="standard-text"><?= $this->lang->line('contact.respond.message');?></p>
             <div class="row" style="margin-top: 50px;">
                 <div class="col-md-6">
                     <div class="row">

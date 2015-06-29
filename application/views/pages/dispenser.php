@@ -24,11 +24,9 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-offset-1 col-md-7">
-                        <h1 class="centered-title">Memory Light Candle Dispenser</h1>
+                        <h1 class="centered-title"><?= $this->lang->line('dispenser.title');?></h1>
                         <p class="standard-text" style="padding-top: 10px;">
-                            The Memory Light Candle dispenser is a prefect concept of professional
-                            cemetery service. Visitors can light a candle to remember their loved
-                            ones. A highly appreciated asset at more than 700 cemeteries in Europe.
+                            <?= $this->lang->line('dispenser.text');?>
                         </p>
                         <ul class="jumbotron-ul">
                             <li>Made of high quality materials and weather resistant</li>

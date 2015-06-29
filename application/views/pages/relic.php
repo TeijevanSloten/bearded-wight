@@ -23,9 +23,9 @@
         <div class="jumbotron" style="margin-top: 0px; background:#F8F8F8;padding-bottom: 50px;">
             <div class="container">
                 <div class="col-md-offset-1 col-md-7">
-                    <h1 class="centered-title">Memory Light Relic</h1>
+                    <h1 class="centered-title"><?= $this->lang->line('relic.title');?></h1>
                     <p class="standard-text">
-                        Our bereavement Memory Light Relic helps those who want to express their heart felt sympathy with an everlasting gift of light.<br>To comfort people in time of emotional pain.
+                        <?= $this->lang->line('relic.text');?>
                     </p>
                     <ul class="jumbotron-ul">
                         <li>Can be personalized</li>
