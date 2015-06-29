@@ -5,6 +5,7 @@
 	$lang['footer.about.title'] = "ES About ES";
 	$lang['footer.about.text'] = "ES Losing a loved one is incredibly difficult. Sometimes words aren't enough to help. That's why Memory Light Netherlands developed unique products to support bereavement care. ES";
 	$lang['footer.in.touch'] = "ES Get in touch! ES";
+	$lang['footer.privacy.policy'] = "ES privacy policy ES";
 
 	$lang['join.partner'] = "ES Join our Partner Program ES";
 	$lang['join.partner.suitable'] = "ES Suitable for entrepreneurs, owners of cemeteries and crematories. ES";
@@ -28,6 +29,15 @@
 	$lang['contact.partner.title'] = "ES Partner Program ES";
 	$lang['contact.partner.text'] = "ES Join our partner program and start your own business. You can offer a service which is highly appreciated at every cemetery and crematory. We give full technical support and have an 'on site' information program. Memory Light shares her knowledge and offers you extra earnings. ES";
 	$lang['contact.respond.message'] = "ES Respond by the attached form and we will contact you personally. ES";
-	
+	$lang['contact.mail.label'] = "ES E-mail ES";
+	$lang['contact.phone.label'] = "ES Telephone ES";
+	$lang['contact.address.label'] = "ES Address ES";
+	$lang['contact.name.label'] = "ES Name ES";
+	$lang['contact.company.label'] = "ES Company ES";
+	$lang['contact.message.label'] = "ES Message ES";
+	$lang['contact.form.submit'] = "ES Submit ES";
+	$lang['contact.form.recieved'] = "ES Message received! ES";
+	$lang['contact.form.contacted'] = "ES We will be contacting you as soon as possible! ES";
+
 	$lang[''] = "";
 ?>

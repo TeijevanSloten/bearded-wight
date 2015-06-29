@@ -5,6 +5,7 @@
 	$lang['footer.about.title'] = "NL About NL";
 	$lang['footer.about.text'] = "NL Losing a loved one is incredibly difficult. Sometimes words aren't enough to help. That's why Memory Light Netherlands developed unique products to support bereavement care. NL";
 	$lang['footer.in.touch'] = "NL Get in touch! NL";
+	$lang['footer.privacy.policy'] = "NL privacy policy NL";
 
 	$lang['join.partner'] = "NL Join our Partner Program NL";
 	$lang['join.partner.suitable'] = "NL Suitable for entrepreneurs, owners of cemeteries and crematories. NL";
@@ -28,6 +29,15 @@
 	$lang['contact.partner.title'] = "NL Partner Program NL";
 	$lang['contact.partner.text'] = "NL Join our partner program and start your own business. You can offer a service which is highly appreciated at every cemetery and crematory. We give full technical support and have an 'on site' information program. Memory Light shares her knowledge and offers you extra earnings. NL";
 	$lang['contact.respond.message'] = "NL Respond by the attached form and we will contact you personally. NL";
+	$lang['contact.mail.label'] = "NL E-mail NL";
+	$lang['contact.phone.label'] = "NL Telephone NL";
+	$lang['contact.address.label'] = "NL Address NL";
+	$lang['contact.name.label'] = "NL Name NL";
+	$lang['contact.company.label'] = "NL Company NL";
+	$lang['contact.message.label'] = "NL Message NL";
+	$lang['contact.form.submit'] = "NL Submit NL";
+	$lang['contact.form.recieved'] = "NL Message received! NL";
+	$lang['contact.form.contacted'] = "NL We will be contacting you as soon as possible! NL";
 
 	$lang[''] = "";
 ?>

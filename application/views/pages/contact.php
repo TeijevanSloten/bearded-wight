@@ -30,14 +30,14 @@
                 <div class="col-md-6">
                     <div class="row">
                         <div class="col-md-5 jumbotron text-center contactjumbotron">
-                            <h3 class="contacttitle">E-mail</h3>
+                            <h3 class="contacttitle"><?= $this->lang->line('contact.mail.label');?></h3>
                             <p>
                                 <span class="glyphicon glyphicon-envelope" aria-hidden="true"></span>
                                 <a href="#">&nbsp;info@memorylight.eu</a>
                             </p>
                         </div>
                         <div class="col-md-5 jumbotron text-center contactjumbotron" style="margin-left: 20px;">
-                            <h3 class="contacttitle">Telephone:</h3>
+                            <h3 class="contacttitle"><?= $this->lang->line('contact.phone.label');?>:</h3>
                             <p>
                                 <span class="glyphicon glyphicon-phone-alt" aria-hidden="true"></span>
                                 <a href="#">&nbsp;06-12345678</a>
@@ -51,7 +51,7 @@
                             </p>
                         </div>
                         <div class="col-md-5 jumbotron text-center contactjumbotron" style="margin-left: 20px;">
-                            <h3 class="contacttitle">Address</h3>
+                            <h3 class="contacttitle"><?= $this->lang->line('contact.address.label');?></h3>
                             <p>
                                 <span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span>
                                 <a href="#">&nbsp;1234 AB Delft<br>The Netherlands</a>
@@ -63,41 +63,41 @@
                     <form class="form-horizontal" method="post">
                         <div class="alert alert-success alert-dismissible col-md-12" role="alert" style="position: absolute; top: -70px; display: none;">
                             <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-                            <strong>Message received!</strong> We will be contacting you as soon as possible!
+                            <strong><?= $this->lang->line('contact.form.recieved');?></strong><?= $this->lang->line('contact.form.contacted');?>
                         </div>
                         <div class="form-group">
-                            <label for="name" class="col-sm-2 control-label">Name</label>
+                            <label for="name" class="col-sm-2 control-label"><?= $this->lang->line('contact.name.label');?></label>
                             <div class="col-sm-10">
                                 <input type="text" class="form-control" id="name" name="name">
                             </div>
                         </div>
                         <div class="form-group">
-                            <label for="company" class="col-sm-2 control-label">Company</label>
+                            <label for="company" class="col-sm-2 control-label"><?= $this->lang->line('contact.company.label');?></label>
                             <div class="col-sm-10">
                                 <input type="text" class="form-control" id="company" name="company">
                             </div>
                         </div>
                         <div class="form-group">
-                            <label for="telephone" class="col-sm-2 control-label">Telephone</label>
+                            <label for="telephone" class="col-sm-2 control-label"><?= $this->lang->line('contact.phone.label');?></label>
                             <div class="col-sm-10">
                                 <input type="phone" class="form-control" id="telephone" name="telephone">
                             </div>
                         </div>
                         <div class="form-group">
-                            <label for="email" class="col-sm-2 control-label">Email</label>
+                            <label for="email" class="col-sm-2 control-label"><?= $this->lang->line('contact.mail.label');?></label>
                             <div class="col-sm-10">
                                 <input type="email" class="form-control" id="email" name="email">
                             </div>
                         </div>
                         <div class="form-group">
-                            <label for="message" class="col-sm-2 control-label">Message</label>
+                            <label for="message" class="col-sm-2 control-label"><?= $this->lang->line('contact.message.label');?></label>
                             <div class="col-sm-10">
                                 <textarea class="form-control" id="message" style="height: 150px;" required="true" name="message"></textarea>
                             </div>
                         </div>
                         <div class="form-group">
                             <div class="col-sm-offset-9 col-sm-3">
-                                <button type="submit" class="btn btn-lg pull-right btn-warning">Submit</button>
+                                <button type="submit" class="btn btn-lg pull-right btn-warning"><?= $this->lang->line('contact.form.submit');?></button>
                             </div>
                         </div>
                     </form>
