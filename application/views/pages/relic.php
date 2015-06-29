@@ -28,11 +28,18 @@
                         <?= $this->lang->line('relic.text');?>
                     </p>
                     <ul class="jumbotron-ul">
-                        <li>Can be personalized</li>
-                        <li>Made of high quality and durable materials</li>
-                        <li>Compartment for holding ashes</li>
-                        <li>Extra flow of funds</li>
-                        <li>Already thousands sold in Europe</li>
+                        <?php
+                            $item = " ";
+                            $i= 0;
+                            while($item != null){
+                                $i++;
+                                $item = $this->lang->line('relic.list.'.$i);
+                                if($item != null){
+                                    echo "<li>".$item."</li>";
+                                }
+                            }
+                            
+                        ?>
                     </ul>
                 </div>
                 <div class="col-md-4">
@@ -50,11 +57,17 @@
                     <h1 class="standard-h2" style="margin-top: 0px; font-size: 45px;"><?= $this->lang->line('specs.label');?></h1>
                     <div class="col-md-offset-1 col-md-10">
                         <ul style="font-size: 21px; margin-top: 20px;">
-                            <li style="padding-bottom: 5px;">Height 135 mm</li>
-                            <li style="padding-bottom: 5px;">Diameter (outer) 69 mm</li>
-                            <li style="padding-bottom: 5px;">Diameter (inner) 62 mm</li>
-                            <li style="padding-bottom: 5px;">Compartment 55 cc</li>
-                            <li style="padding-bottom: 5px;">Max candle height 95 mm, diameter 55 mm</li>
+                            <?php
+                                $item = " ";
+                                $i= 0;
+                                while($item != null){
+                                    $i++;
+                                    $item = $this->lang->line('relic.spec.list.'.$i);
+                                    if($item != null){
+                                        echo "<li style='padding-bottom: 5px;'>".$item."</li>";
+                                    }
+                                }
+                            ?>
                         </ul>
                     </div>
                 </div>

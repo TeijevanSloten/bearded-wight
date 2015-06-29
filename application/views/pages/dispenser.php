@@ -29,11 +29,17 @@
                             <?= $this->lang->line('dispenser.text');?>
                         </p>
                         <ul class="jumbotron-ul">
-                            <li>Made of high quality materials and weather resistant</li>
-                            <li>A long live span and hardly any maintenance</li>
-                            <li>Violent proof, secured money safe</li>
-                            <li>Compartment for holding ashes</li>
-                            <li>Rechargeable battery</li>
+                            <?php
+                                $item = " ";
+                                $i= 0;
+                                while($item != null){
+                                    $i++;
+                                    $item = $this->lang->line('dispenser.list.'.$i);
+                                    if($item != null){
+                                        echo "<li>".$item."</li>";
+                                    }
+                                }
+                            ?>
                         </ul>
                     </div>
                     <div class="col-md-offset-1 col-md-3">
@@ -53,11 +59,17 @@
                     <h1 class="standard-h2" style="margin-top: 0px; font-size: 45px;"><?= $this->lang->line('specs.label');?></h1>
                     <div class="col-md-offset-1 col-md-10">
                         <ul style="font-size: 21px; margin-top: 20px;">
-                            <li style="padding-bottom: 5px;">Height 1780 mm</li>
-                            <li style="padding-bottom: 5px;">Depth 350 mm</li>
-                            <li style="padding-bottom: 5px;">Width 420 mm</li>
-                            <li style="padding-bottom: 5px;">Amount candles 80 - 120</li>
-                            <li style="padding-bottom: 5px;">Gel cell battery X hours (rechargeable)</li>
+                            <?php
+                                $item = " ";
+                                $i= 0;
+                                while($item != null){
+                                    $i++;
+                                    $item = $this->lang->line('dispenser.spec1.list.'.$i);
+                                    if($item != null){
+                                        echo "<li style='padding-bottom: 5px;'>".$item."</li>";
+                                    }
+                                }
+                            ?>
                         </ul>
                     </div>
                 </div>
@@ -68,11 +80,17 @@
                 <div class="col-md-offset-1 col-md-5">
                     <div class="col-md-offset-1 col-md-10">
                         <ul style="font-size: 21px; margin-top: 20px;">
-                            <li style="padding-bottom: 5px;">Height 1780 mm</li>
-                            <li style="padding-bottom: 5px;">Depth 700 mm</li>
-                            <li style="padding-bottom: 5px;">Width 700 mm</li>
-                            <li style="padding-bottom: 5px;">Amount candles 180</li>
-                            <li style="padding-bottom: 5px;">Gel cell battery X hours (rechargeable)</li>
+                            <?php
+                                $item = " ";
+                                $i= 0;
+                                while($item != null){
+                                    $i++;
+                                    $item = $this->lang->line('dispenser.spec2.list.'.$i);
+                                    if($item != null){
+                                        echo "<li style='padding-bottom: 5px;'>".$item."</li>";
+                                    }
+                                }
+                            ?>
                         </ul>
                     </div>
                 </div>
