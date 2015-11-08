@@ -3,8 +3,8 @@ $(document).ready(function () {
         items: 1,
         loop: true,
         autoplay: true,
-        autoplayTimeout: 5000,
-        smartSpeed: 3000,
+        autoplayTimeout: 2000,
+        smartSpeed: 1500,
         autoplayHoverPause: true,
         margin: 25
     });

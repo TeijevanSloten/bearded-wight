@@ -22,7 +22,10 @@
         <?php include 'components/header.php'; ?>
         <div class="jumbotron" style="margin-top: 0px; background:#F8F8F8; margin-bottom: 0">
             <div class="container">
-                <div class="col-md-offset-1 col-md-6">
+                <div class="col-md-3">
+                    <img src="img/product1.png" style='margin-top: 95px;position: relative; right: 40px; height: 300px;'>
+                </div>
+                <div class="col-md-6">
                     <h1 class="centered-title" style="margin-top: 100px;"><?= $this->lang->line('intro.title');?></h1>
                     <div>
                         <p class="standard-text"><?= $this->lang->line('intro.text');?></p>
@@ -35,7 +38,7 @@
                     </div>
                 </div>
                 <div>
-                    <img src="img/products.png" style='margin-top: 95px;position: relative; right: -50px; height: 300px;'>
+                    <img src="img/product2.png" style='margin-top: 35px;position: relative; right: -50px; height: 400px;'>
                 </div>
             </div>
         </div>
