@@ -74,12 +74,12 @@
                     </div>
                 </div>
                 <div class="col-md-5">
-                    <img class="col-md-12" src="img/small dispenser2.jpg">
+                    <img class="col-md-12" src="img/small dispenser3.jpg">
                 </div>
                 <hr class="col-md-12">
                 <div class="col-md-offset-1 col-md-5">
                     <div class="col-md-offset-1 col-md-10">
-                        <ul style="font-size: 21px; margin-top: 20px;">
+                        <ul style="font-size: 21px; margin-top: 100px;">
                             <?php
                                 $item = " ";
                                 $i= 0;
@@ -95,7 +95,7 @@
                     </div>
                 </div>
                 <div class="col-md-5">
-                    <img class="col-md-12" src="img/big dispenser3.jpg">
+                    <img class="col-md-12" src="img/big dispenser5.jpg">
                 </div>
             </div>
         </div>

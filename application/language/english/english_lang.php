@@ -40,16 +40,20 @@
 	$lang['dispenser.list.3'] = "Violent proof, secured money safe";
 	$lang['dispenser.list.4'] = "Compartment for holding ashes";
 	$lang['dispenser.list.5'] = "Rechargeable battery";
-	$lang['dispenser.spec1.list.1'] = "Height 1780 mm";
-	$lang['dispenser.spec1.list.2'] = "Depth 350 mm";
-	$lang['dispenser.spec1.list.3'] = "Width 420 mm";
-	$lang['dispenser.spec1.list.4'] = "Amount candles 80 - 120";
-	$lang['dispenser.spec1.list.5'] = "Gel cell battery X hours (rechargeable)";
-	$lang['dispenser.spec2.list.1'] = "Height 1780 mm";
-	$lang['dispenser.spec2.list.2'] = "Depth 700 mm";
-	$lang['dispenser.spec2.list.3'] = "Width 700 mm";
-	$lang['dispenser.spec2.list.4'] = "Amount candles 180";
-	$lang['dispenser.spec2.list.5'] = "Gel cell battery X hours (rechargeable)";
+
+	$lang['dispenser.spec1.list.1'] = "Type: N-80";
+	$lang['dispenser.spec1.list.2'] = "Height 1780 mm";
+	$lang['dispenser.spec1.list.3'] = "Depth 350 mm";
+	$lang['dispenser.spec1.list.4'] = "Width 420 mm";
+	$lang['dispenser.spec1.list.5'] = "Amount candles 80 - 120";
+	$lang['dispenser.spec1.list.6'] = "Gel-battery operated";
+
+	$lang['dispenser.spec2.list.1'] = "Type: N-180";
+	$lang['dispenser.spec2.list.2'] = "Height 1780 mm";
+	$lang['dispenser.spec2.list.3'] = "Depth 700 mm";
+	$lang['dispenser.spec2.list.4'] = "Width 700 mm";
+	$lang['dispenser.spec2.list.5'] = "Amount candles 180";
+	$lang['dispenser.spec2.list.6'] = "Gel-battery operated";
 
 	$lang['contact.partner.title'] = "Partner Program";
 	$lang['contact.partner.text'] = "Join our partner program and start your own business. You can offer a service which is highly appreciated at every cemetery and crematory. We give full technical support and have an 'on site' information program. Memory Light shares her knowledge and offers you extra earnings.";
