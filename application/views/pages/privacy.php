@@ -34,12 +34,11 @@
 
                         <h4>2. <?= $this->lang->line('privacy.subtitle.2');?></h4>
 
-                        Wij zullen de verzameling en gebruik van gegevens beperken tot datgene wat noodzakelijk is om het gewenste niveau van dienstverlening aan onze cliënten te kunnen bieden of overeenkomsten voor te bereiden of uit te voeren. Uw gegevens worden uitsluitend door Memory Light gebruikt als u deze zelf opgeeft. Uw gegevens worden niet aan derden verstrekt.
+                        <?= $this->lang->line('privacy.subtext.2');?>
 
                         <h4>3. <?= $this->lang->line('privacy.subtitle.3');?></h4>
 
                         <?= $this->lang->line('privacy.subtext.3');?>
-                        : <a href="http://localhost/MemoryLight/privacy.php">http://www.cookielaw.org/the-cookie-law/</a>
 
                         <h4>4. <?= $this->lang->line('privacy.subtitle.4');?></h4>
 
@@ -52,9 +51,7 @@
                         <h4>6. <?= $this->lang->line('privacy.subtitle.6');?></h4>
 
                         <?= $this->lang->line('privacy.subtext.6');?>
-
-
-
+                        <br/><br/>Last updated November 2015
                     </div>
                 </div>
             </div>
