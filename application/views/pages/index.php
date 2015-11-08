@@ -22,8 +22,6 @@
         <?php include 'components/header.php'; ?>
         <div class="jumbotron" style="margin-top: 0px; background:#F8F8F8; margin-bottom: 0">
             <div class="container">
-                <div class="col-md-offset-1 col-md-6">
-                    <h1 class="centered-title" style="margin-top: 100px;"><?= $this->lang->line('home.intro.title');?></h1>
                 <div class="col-md-3">
                     <img src="img/product1.png" style='margin-top: 95px;position: relative; right: 40px; height: 300px;'>
                 </div>
