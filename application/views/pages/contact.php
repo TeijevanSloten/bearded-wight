@@ -37,10 +37,10 @@
                             </p>
                         </div>
                         <div class="col-md-5 jumbotron text-center contactjumbotron" style="margin-left: 20px;">
-                            <h3 class="contacttitle"><?= $this->lang->line('contact.phone.label');?>:</h3>
+                            <h3 class="contacttitle"><?= $this->lang->line('contact.phone.label');?></h3>
                             <p>
                                 <span class="glyphicon glyphicon-phone-alt" aria-hidden="true"></span>
-                                <a href="#">&nbsp;06-12345678</a>
+                                <a href="#">&nbsp;06 33 03 01 19</a>
                             </p>
                         </div>
                         <div class="col-md-5 jumbotron text-center contactjumbotron">
@@ -54,7 +54,15 @@
                             <h3 class="contacttitle"><?= $this->lang->line('contact.address.label');?></h3>
                             <p>
                                 <span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span>
-                                <a href="#">&nbsp;1234 AB Delft<br>The Netherlands</a>
+                                <a href="#">&nbsp;Calandstraat 73<br/>3125 BA Schiedam</a>
+                            </p>
+                        </div>
+
+                        <div class="col-md-5 jumbotron text-center contactjumbotron">
+                            <h3 class="contacttitle">KvK</h3>
+                            <p>
+                                <span class="glyphicon glyphicon-briefcase" aria-hidden="true"></span>
+                                63819457
                             </p>
                         </div>
                     </div>
