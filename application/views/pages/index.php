@@ -26,7 +26,7 @@
                     <img src="img/product1.png" style='margin-top: 95px;position: relative; right: 40px; height: 300px;'>
                 </div>
                 <div class="col-md-6">
-                    <h1 class="centered-title" style="margin-top: 100px;"><?= $this->lang->line('intro.title');?></h1>
+                    <h1 class="centered-title" style="margin-top: 100px;"><?= $this->lang->line('home.intro.title');?></h1>
                     <div>
                         <p class="standard-text"><?= $this->lang->line('home.intro.text');?></p>
                     </div>
