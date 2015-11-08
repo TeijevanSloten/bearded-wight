@@ -22,7 +22,7 @@
         </div>
         <div class="row">
             <div class="col-md-12">
-                <p class="text-center"><a href="privacy" class="footer-link">privacy policy</a> - made by mdtvs</p>
+                <p class="text-center"><a href="privacy" class="footer-link"><?= $this->lang->line('footer.privacy.policy');?></a> - made by mdtvs</p>
             </div>
         </div>
     </div>

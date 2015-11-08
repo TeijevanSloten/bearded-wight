@@ -22,13 +22,15 @@
         <?php include 'components/header.php'; ?>
         <div class="jumbotron" style="margin-top: 0px; background:#F8F8F8; margin-bottom: 0">
             <div class="container">
+                <div class="col-md-offset-1 col-md-6">
+                    <h1 class="centered-title" style="margin-top: 100px;"><?= $this->lang->line('home.intro.title');?></h1>
                 <div class="col-md-3">
                     <img src="img/product1.png" style='margin-top: 95px;position: relative; right: 40px; height: 300px;'>
                 </div>
                 <div class="col-md-6">
                     <h1 class="centered-title" style="margin-top: 100px;"><?= $this->lang->line('intro.title');?></h1>
                     <div>
-                        <p class="standard-text"><?= $this->lang->line('intro.text');?></p>
+                        <p class="standard-text"><?= $this->lang->line('home.intro.text');?></p>
                     </div>
                     <div id="owl-quotes" class="owl-carousel">
                         <div><h3 style="font-weight: 200;"><i>“A valuable service. Visitors can buy a grave candle every day.”</i> - Martin</h3></div>
@@ -47,14 +49,14 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-6">
-                        <h2 style="margin-left: 5px; font-family: 'ImperatorSmallCaps'; font-weight: bold"><?= $this->lang->line('main.relic.title');?></h2>
-                        <p><?= $this->lang->line('main.relic.text');?></p>
-                        <p><a class="btn btn-default" href="relic" role="button"><?= $this->lang->line('view.details');?></a></p>
+                        <h2 style="margin-left: 5px; font-family: 'ImperatorSmallCaps'; font-weight: bold"><?= $this->lang->line('home.relic.title');?></h2>
+                        <p><?= $this->lang->line('home.relic.text');?></p>
+                        <p><a class="btn btn-default" href="relic" role="button"><?= $this->lang->line('home.view.details');?></a></p>
                     </div>
                     <div class="col-md-6">
-                        <h2 style="margin-left: 5px; font-family: 'ImperatorSmallCaps'; font-weight: bold;"><?= $this->lang->line('main.dispenser.title');?></h2>
-                        <p><?= $this->lang->line('main.dispenser.text');?></p>
-                        <p><a class="btn btn-default" href="dispenser" role="button"><?= $this->lang->line('view.details');?></a></p>
+                        <h2 style="margin-left: 5px; font-family: 'ImperatorSmallCaps'; font-weight: bold;"><?= $this->lang->line('home.dispenser.title');?></h2>
+                        <p><?= $this->lang->line('home.dispenser.text');?></p>
+                        <p><a class="btn btn-default" href="dispenser" role="button"><?= $this->lang->line('home.view.details');?></a></p>
                     </div>
                 </div>
             </div>

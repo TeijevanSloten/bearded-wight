@@ -23,16 +23,23 @@
         <div class="jumbotron" style="margin-top: 0px; background:#F8F8F8;padding-bottom: 50px;">
             <div class="container">
                 <div class="col-md-offset-1 col-md-7">
-                    <h1 class="centered-title">Memory Light Relic</h1>
+                    <h1 class="centered-title"><?= $this->lang->line('relic.title');?></h1>
                     <p class="standard-text">
-                        Our bereavement Memory Light Relic helps those who want to express their heart felt sympathy with an everlasting gift of light.<br>To comfort people in time of emotional pain.
+                        <?= $this->lang->line('relic.text');?>
                     </p>
                     <ul class="jumbotron-ul">
-                        <li>Can be personalized</li>
-                        <li>Made of high quality and durable materials</li>
-                        <li>Compartment for holding ashes</li>
-                        <li>Extra flow of funds</li>
-                        <li>Already thousands sold in Europe</li>
+                        <?php
+                            $item = " ";
+                            $i= 0;
+                            while($item != null){
+                                $i++;
+                                $item = $this->lang->line('relic.list.'.$i);
+                                if($item != null){
+                                    echo "<li>".$item."</li>";
+                                }
+                            }
+                            
+                        ?>
                     </ul>
                 </div>
                 <div class="col-md-4">
@@ -47,14 +54,20 @@
         <div class="jumbotron" style="margin-top: 0px; background:#FFF; margin-bottom: 0">
             <div class="container">
                 <div class="col-md-offset-1 col-md-5">
-                    <h1 class="standard-h2" style="margin-top: 0px; font-size: 45px;">Specifications</h1>
+                    <h1 class="standard-h2" style="margin-top: 0px; font-size: 45px;"><?= $this->lang->line('specs.label');?></h1>
                     <div class="col-md-offset-1 col-md-10">
                         <ul style="font-size: 21px; margin-top: 20px;">
-                            <li style="padding-bottom: 5px;">Height 135 mm</li>
-                            <li style="padding-bottom: 5px;">Diameter (outer) 69 mm</li>
-                            <li style="padding-bottom: 5px;">Diameter (inner) 62 mm</li>
-                            <li style="padding-bottom: 5px;">Compartment 55 cc</li>
-                            <li style="padding-bottom: 5px;">Max candle height 95 mm, diameter 55 mm</li>
+                            <?php
+                                $item = " ";
+                                $i= 0;
+                                while($item != null){
+                                    $i++;
+                                    $item = $this->lang->line('relic.spec.list.'.$i);
+                                    if($item != null){
+                                        echo "<li style='padding-bottom: 5px;'>".$item."</li>";
+                                    }
+                                }
+                            ?>
                         </ul>
                     </div>
                 </div>
@@ -68,11 +81,11 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-10 col-md-offset-1">
-                        <h1 class="standard-h1">Join our Partner Program</h1>
-                        <p class="text-center">Suitable for entrepreneurs, owners of cemeteries and crematories. </p>
-                        <p class="text-center">Memory Light: A perfect concept of a reliable partner!</p>
+                        <h1 class="standard-h1"> <?= $this->lang->line('join.partner');?> </h1>
+                        <p class="text-center"> <?= $this->lang->line('join.partner.suitable');?> </p>
+                        <p class="text-center"> <?= $this->lang->line('join.partner.reliable');?> </p>
                         <br>
-                        <p class="text-center"><a class="btn btn-success btn-lg text-capitalize" href="contact" role="button">join us now</a></p>
+                        <p class="text-center"><a class="btn btn-success btn-lg text-capitalize" href="contact" role="button"> <?= $this->lang->line('join.partner.now');?> </a></p>
                     </div>
                 </div>
             </div>
